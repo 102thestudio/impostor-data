@@ -1,0 +1,66 @@
+[
+  { "word": "Juez", "hints": ["Decisión", "Leyes", "Sala"], "impostorWords": ["Abogado", "Árbitro", "Fiscal"] },
+  { "word": "Árbitro", "hints": ["Decisión", "Reglas", "Uniforme"], "impostorWords": ["Juez", "Entrenador", "Policía"] },
+  { "word": "Entrenador", "hints": ["Decisión", "Equipo", "Estrategia"], "impostorWords": ["Árbitro", "Profesor", "Jugador"] },
+  { "word": "Político", "hints": ["Decisión", "Público", "Hablar"], "impostorWords": ["Abogado", "Actor", "Juez"] },
+  { "word": "Director de Cine", "hints": ["Decisión", "Cámara", "Arte"], "impostorWords": ["Actor", "Fotógrafo", "Productor"] },
+
+  { "word": "Médico", "hints": ["Ayuda", "Uniforme", "Guardia"], "impostorWords": ["Enfermero", "Veterinario", "Bombero"] },
+  { "word": "Enfermero", "hints": ["Ayuda", "Uniforme", "Hospital"], "impostorWords": ["Médico", "Auxiliar", "Fisioterapeuta"] },
+  { "word": "Veterinario", "hints": ["Ayuda", "Animales", "Clínica"], "impostorWords": ["Médico", "Granjero", "Biólogo"] },
+  { "word": "Psicólogo", "hints": ["Ayuda", "Escuchar", "Despacho"], "impostorWords": ["Psiquiatra", "Abogado", "Sacerdote"] },
+  { "word": "Bombero", "hints": ["Ayuda", "Riesgo", "Uniforme"], "impostorWords": ["Policía", "Militar", "Médico"] },
+  { "word": "Socorrista", "hints": ["Ayuda", "Agua", "Vigilancia"], "impostorWords": ["Bombero", "Monitor", "Policía"] },
+
+  { "word": "Policía", "hints": ["Ley", "Uniforme", "Patrulla"], "impostorWords": ["Guardia Civil", "Seguridad", "Detective"] },
+  { "word": "Guardia de Seguridad", "hints": ["Vigilancia", "Uniforme", "Noche"], "impostorWords": ["Policía", "Portero", "Conserje"] },
+  { "word": "Militar", "hints": ["Disciplina", "Uniforme", "Riesgo"], "impostorWords": ["Policía", "Bombero", "Piloto"] },
+  { "word": "Detective", "hints": ["Investigar", "Pruebas", "Discreto"], "impostorWords": ["Policía", "Periodista", "Abogado"] },
+  { "word": "Abogado", "hints": ["Ley", "Despacho", "Defender"], "impostorWords": ["Juez", "Fiscal", "Notario"] },
+
+  { "word": "Profesor", "hints": ["Enseñar", "Público", "Voz"], "impostorWords": ["Entrenador", "Monitor", "Científico"] },
+  { "word": "Científico", "hints": ["Investigar", "Laboratorio", "Pruebas"], "impostorWords": ["Profesor", "Médico", "Farmacéutico"] },
+  { "word": "Farmacéutico", "hints": ["Salud", "Mostrador", "Bata"], "impostorWords": ["Médico", "Científico", "Dependiente"] },
+  { "word": "Bibliotecario", "hints": ["Orden", "Silencio", "Cultura"], "impostorWords": ["Profesor", "Librero", "Administrativo"] },
+
+  { "word": "Piloto", "hints": ["Viaje", "Controles", "Uniforme"], "impostorWords": ["Azafata", "Taxista", "Astronauta"] },
+  { "word": "Azafata", "hints": ["Atención", "Viaje", "Uniforme"], "impostorWords": ["Piloto", "Camarero", "Guía"] },
+  { "word": "Taxista", "hints": ["Vehículo", "Ciudad", "Sentado"], "impostorWords": ["Conductor", "Camionero", "Piloto"] },
+  { "word": "Camionero", "hints": ["Vehículo", "Ruta", "Soledad"], "impostorWords": ["Taxista", "Repartidor", "Conductor"] },
+  { "word": "Repartidor", "hints": ["Paquetes", "Ruta", "Prisa"], "impostorWords": ["Cartero", "Camionero", "Pizzero"] },
+  { "word": "Cartero", "hints": ["Paquetes", "Andar", "Uniforme"], "impostorWords": ["Repartidor", "Mensajero", "Policía"] },
+
+  { "word": "Chef", "hints": ["Cocina", "Calor", "Creatividad"], "impostorWords": ["Camarero", "Panadero", "Carnicero"] },
+  { "word": "Panadero", "hints": ["Cocina", "Harina", "Madrugar"], "impostorWords": ["Pastelero", "Chef", "Dependiente"] },
+  { "word": "Camarero", "hints": ["Atención", "Bandeja", "Prisa"], "impostorWords": ["Chef", "Dependiente", "Azafata"] },
+  { "word": "Carnicero", "hints": ["Corte", "Mostrador", "Frio"], "impostorWords": ["Chef", "Pescadero", "Cirujano"] },
+
+  { "word": "Albañil", "hints": ["Obra", "Herramientas", "Físico"], "impostorWords": ["Arquitecto", "Fontanero", "Pintor"] },
+  { "word": "Fontanero", "hints": ["Avería", "Herramientas", "Agua"], "impostorWords": ["Electricista", "Albañil", "Mecánico"] },
+  { "word": "Electricista", "hints": ["Avería", "Herramientas", "Luz"], "impostorWords": ["Fontanero", "Técnico", "Informático"] },
+  { "word": "Mecánico", "hints": ["Taller", "Herramientas", "Manchas"], "impostorWords": ["Ingeniero", "Conductor", "Fontanero"] },
+  { "word": "Carpintero", "hints": ["Madera", "Herramientas", "Taller"], "impostorWords": ["Albañil", "Escultor", "Montador"] },
+  { "word": "Jardinero", "hints": ["Exterior", "Herramientas", "Naturaleza"], "impostorWords": ["Granjero", "Florista", "Agricultor"] },
+  { "word": "Pintor", "hints": ["Color", "Herramientas", "Manchas"], "impostorWords": ["Albañil", "Artista", "Decorador"] },
+
+  { "word": "Programador", "hints": ["Ordenador", "Lógica", "Sentado"], "impostorWords": ["Hacker", "Diseñador", "Administrativo"] },
+  { "word": "Hacker", "hints": ["Ordenador", "Red", "Código"], "impostorWords": ["Programador", "Espía", "Informático"] },
+  { "word": "Diseñador Gráfico", "hints": ["Ordenador", "Creatividad", "Imagen"], "impostorWords": ["Pintor", "Fotógrafo", "Arquitecto"] },
+  { "word": "Arquitecto", "hints": ["Diseño", "Planos", "Oficina"], "impostorWords": ["Ingeniero", "Albañil", "Decorador"] },
+  { "word": "Escritor", "hints": ["Creatividad", "Soledad", "Historias"], "impostorWords": ["Periodista", "Guionista", "Profesor"] },
+  { "word": "Periodista", "hints": ["Investigar", "Actualidad", "Preguntar"], "impostorWords": ["Escritor", "Detective", "Presentador"] },
+
+  { "word": "Actor", "hints": ["Escenario", "Papel", "Memoria"], "impostorWords": ["Director", "Modelo", "Cantante"] },
+  { "word": "Músico", "hints": ["Escenario", "Sonido", "Instrumento"], "impostorWords": ["Cantante", "DJ", "Compositor"] },
+  { "word": "Cantante", "hints": ["Escenario", "Voz", "Micrófono"], "impostorWords": ["Músico", "Actor", "Presentador"] },
+  { "word": "Modelo", "hints": ["Imagen", "Cámara", "Moda"], "impostorWords": ["Actor", "Fotógrafo", "Influencer"] },
+  { "word": "Fotógrafo", "hints": ["Imagen", "Cámara", "Luz"], "impostorWords": ["Director", "Periodista", "Modelo"] },
+
+  { "word": "Peluquero", "hints": ["Imagen", "Tijeras", "Espejo"], "impostorWords": ["Maquillador", "Barbero", "Estilista"] },
+  { "word": "Dependiente", "hints": ["Venta", "Público", "Mostrador"], "impostorWords": ["Comercial", "Cajero", "Recepcionista"] },
+  { "word": "Recepcionista", "hints": ["Atención", "Teléfono", "Entrada"], "impostorWords": ["Secretario", "Administrativo", "Dependiente"] },
+  { "word": "Granjero", "hints": ["Campo", "Animales", "Madrugar"], "impostorWords": ["Jardinero", "Veterinario", "Agricultor"] },
+  { "word": "Pescador", "hints": ["Mar", "Paciencia", "Red"], "impostorWords": ["Marinero", "Granjero", "Socorrista"] }
+]
+
+

@@ -1,0 +1,35 @@
+[
+  { "word": "Juego de Tronos", "hints": ["Reino", "Poder", "Traición"], "impostorWords": ["La Casa del Dragón", "Vikingos", "El Señor de los Anillos"] },
+  { "word": "La Casa del Dragón", "hints": ["Reino", "Familia", "Fuego"], "impostorWords": ["Juego de Tronos", "Los Anillos de Poder", "The Witcher"] },
+  { "word": "The Witcher", "hints": ["Magia", "Monstruos", "Espada"], "impostorWords": ["Juego de Tronos", "Supernatural", "La Rueda del Tiempo"] },
+  { "word": "Vikingos", "hints": ["Guerra", "Historia", "Barcos"], "impostorWords": ["Juego de Tronos", "The Last Kingdom", "Espartaco"] },
+  { "word": "Los Anillos de Poder", "hints": ["Fantasía", "Viaje", "Antiguo"], "impostorWords": ["La Casa del Dragón", "Juego de Tronos", "La Rueda del Tiempo"] },
+
+  { "word": "Breaking Bad", "hints": ["Crimen", "Negocio", "Química"], "impostorWords": ["Better Call Saul", "Narcos", "Ozark"] },
+  { "word": "Better Call Saul", "hints": ["Ley", "Crimen", "Dinero"], "impostorWords": ["Breaking Bad", "Suits", "Ozark"] },
+  { "word": "Narcos", "hints": ["Crimen", "Drogas", "Realidad"], "impostorWords": ["Breaking Bad", "El Chapo", "Fariña"] },
+  { "word": "La Casa de Papel", "hints": ["Crimen", "Plan", "Atraco"], "impostorWords": ["Vis a Vis", "Lupin", "Prison Break"] },
+  { "word": "Vis a Vis", "hints": ["Cárcel", "Mujeres", "Amarillo"], "impostorWords": ["La Casa de Papel", "Orange is the New Black", "Prison Break"] },
+  { "word": "Prison Break", "hints": ["Cárcel", "Plan", "Huida"], "impostorWords": ["La Casa de Papel", "Vis a Vis", "Breaking Bad"] },
+  { "word": "El Juego del Calamar", "hints": ["Juego", "Dinero", "Muerte"], "impostorWords": ["La Casa de Papel", "Alice in Borderland", "Black Mirror"] },
+
+  { "word": "Stranger Things", "hints": ["Misterio", "Amigos", "Pasado"], "impostorWords": ["Dark", "It", "Los Goonies"] },
+  { "word": "Black Mirror", "hints": ["Futuro", "Tecnología", "Oscuro"], "impostorWords": ["Stranger Things", "Love Death & Robots", "Severance"] },
+  { "word": "Dark", "hints": ["Tiempo", "Misterio", "Familia"], "impostorWords": ["Stranger Things", "1899", "Twin Peaks"] },
+  { "word": "The Last of Us", "hints": ["Viaje", "Supervivencia", "Infección"], "impostorWords": ["The Walking Dead", "Stranger Things", "Chernobyl"] },
+  { "word": "The Walking Dead", "hints": ["Supervivencia", "Grupo", "Zombies"], "impostorWords": ["The Last of Us", "Lost", "Juego de Tronos"] },
+
+  { "word": "Friends", "hints": ["Amigos", "Piso", "Risas"], "impostorWords": ["Cómo conocí a vuestra madre", "The Big Bang Theory", "Seinfeld"] },
+  { "word": "Cómo conocí a vuestra madre", "hints": ["Amigos", "Historia", "Amor"], "impostorWords": ["Friends", "Modern Family", "New Girl"] },
+  { "word": "The Big Bang Theory", "hints": ["Amigos", "Ciencia", "Piso"], "impostorWords": ["Friends", "El Joven Sheldon", "IT Crowd"] },
+  { "word": "The Office", "hints": ["Trabajo", "Oficina", "Jefe"], "impostorWords": ["Parks and Recreation", "Brooklyn 99", "Modern Family"] },
+  { "word": "Modern Family", "hints": ["Familia", "Casa", "Entrevista"], "impostorWords": ["The Office", "Malcolm", "Los Simpson"] },
+  { "word": "Aquí no hay quien viva", "hints": ["Vecinos", "Edificio", "España"], "impostorWords": ["La que se avecina", "Aída", "Los Serrano"] },
+  { "word": "La que se avecina", "hints": ["Vecinos", "Comunidad", "España"], "impostorWords": ["Aquí no hay quien viva", "Gym Tony", "El Pueblo"] },
+
+  { "word": "Los Simpson", "hints": ["Animación", "Familia", "Amarillo"], "impostorWords": ["Padre de Familia", "Futurama", "South Park"] },
+  { "word": "Padre de Familia", "hints": ["Animación", "Familia", "Absurdo"], "impostorWords": ["Los Simpson", "American Dad", "Rick y Morty"] },
+  { "word": "Rick y Morty", "hints": ["Animación", "Ciencia", "Viajes"], "impostorWords": ["Futurama", "Solar Opposites", "Padre de Familia"] },
+  { "word": "Futurama", "hints": ["Animación", "Futuro", "Espacio"], "impostorWords": ["Rick y Morty", "Los Simpson", "Desencanto"] },
+  { "word": "South Park", "hints": ["Animación", "Niños", "Sátira"], "impostorWords": ["Padre de Familia", "Rick y Morty", "Beavis & Butt-Head"] }
+]

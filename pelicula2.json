@@ -1,0 +1,28 @@
+[
+  { "word": "El Viaje de Chihiro", "hints": ["Anime", "Magia", "Ghibli"], "impostorWords": ["Mi Vecino Totoro", "La Princesa Mononoke", "El Castillo Ambulante"] },
+  { "word": "Mi Vecino Totoro", "hints": ["Anime", "Bosque", "Ghibli"], "impostorWords": ["El Viaje de Chihiro", "Ponyo", "El Castillo Ambulante"] },
+  { "word": "La Princesa Mononoke", "hints": ["Anime", "Guerra", "Ghibli"], "impostorWords": ["El Viaje de Chihiro", "Akira", "Nausicaä"] },
+  { "word": "El Castillo Ambulante", "hints": ["Anime", "Magia", "Ghibli"], "impostorWords": ["Mi Vecino Totoro", "El Viaje de Chihiro", "La Princesa Mononoke"] },
+  { "word": "Akira", "hints": ["Anime", "Futuro", "Moto"], "impostorWords": ["Ghost in the Shell", "Neon Genesis Evangelion", "La Princesa Mononoke"] },
+
+  { "word": "El Club de la Lucha", "hints": ["Mente", "Reglas", "Insomnio"], "impostorWords": ["American Psycho", "Donnie Darko", "Seven"] },
+  { "word": "American Psycho", "hints": ["Mente", "Asesino", "Traje"], "impostorWords": ["El Club de la Lucha", "Taxi Driver", "La Naranja Mecánica"] },
+  { "word": "Donnie Darko", "hints": ["Mente", "Conejo", "Tiempo"], "impostorWords": ["El Efecto Mariposa", "El Club de la Lucha", "Origen"] },
+  { "word": "Taxi Driver", "hints": ["Soledad", "Coche", "Espejo"], "impostorWords": ["Joker", "Drive", "American Psycho"] },
+  { "word": "La Naranja Mecánica", "hints": ["Violencia", "Leche", "Blanco"], "impostorWords": ["El Resplandor", "American Psycho", "Trainspotting"] },
+  { "word": "Trainspotting", "hints": ["Drogas", "Escocia", "Juventud"], "impostorWords": ["Réquiem por un Sueño", "La Naranja Mecánica", "El Club de la Lucha"] },
+
+  { "word": "Pulp Fiction", "hints": ["Violencia", "Diálogos", "Tarantino"], "impostorWords": ["Reservoir Dogs", "Kill Bill", "Sin City"] },
+  { "word": "Kill Bill", "hints": ["Venganza", "Espada", "Amarillo"], "impostorWords": ["Pulp Fiction", "Bastardos sin Gloria", "Oldboy"] },
+  { "word": "Reservoir Dogs", "hints": ["Traje", "Colores", "Atraco"], "impostorWords": ["Pulp Fiction", "Los Odiosos Ocho", "Snatch"] },
+  { "word": "Bastardos sin Gloria", "hints": ["Guerra", "Cine", "Nazis"], "impostorWords": ["Django", "La Lista de Schindler", "Salvar al Soldado Ryan"] },
+
+  { "word": "Scream", "hints": ["Máscara", "Teléfono", "Slasher"], "impostorWords": ["Halloween", "Viernes 13", "Saw"] },
+  { "word": "Halloween", "hints": ["Máscara", "Cuchillo", "Slasher"], "impostorWords": ["Scream", "La Matanza de Texas", "Pesadilla en Elm Street"] },
+  { "word": "Saw", "hints": ["Juego", "Trampa", "Muñeco"], "impostorWords": ["Seven", "Hostel", "El Coleccionista"] },
+  { "word": "El Resplandor", "hints": ["Hotel", "Locura", "Hacha"], "impostorWords": ["Psicosis", "Misery", "El Sexto Sentido"] },
+  { "word": "Psicosis", "hints": ["Ducha", "Madre", "Motel"], "impostorWords": ["El Resplandor", "Los Pájaros", "Halloween"] },
+  { "word": "Hereditary", "hints": ["Familia", "Culto", "Trauma"], "impostorWords": ["Midsommar", "The Witch", "El Exorcista"] },
+  { "word": "Midsommar", "hints": ["Culto", "Día", "Flores"], "impostorWords": ["Hereditary", "El Bosque", "La Bruja"] }
+]
+

@@ -1,0 +1,74 @@
+[
+  { "word": "Apple", "hints": ["Tecnología", "Silicon Valley", "Gigante"], "impostorWords": ["Microsoft", "Samsung", "Google"] },
+  { "word": "Microsoft", "hints": ["Tecnología", "Silicon Valley", "Gigante"], "impostorWords": ["Apple", "Google", "Amazon"] },
+  { "word": "Google", "hints": ["Tecnología", "Silicon Valley", "Gigante"], "impostorWords": ["Apple", "Microsoft", "Amazon"] },
+  { "word": "Amazon", "hints": ["Tecnología", "Silicon Valley", "Gigante"], "impostorWords": ["Google", "Microsoft", "Apple"] },
+
+  { "word": "Samsung", "hints": ["Tecnología", "Asia", "Dispositivos"], "impostorWords": ["Apple", "Xiaomi", "Huawei"] },
+  { "word": "Xiaomi", "hints": ["Tecnología", "Asia", "Dispositivos"], "impostorWords": ["Samsung", "Huawei", "Oppo"] },
+  { "word": "Huawei", "hints": ["Tecnología", "Asia", "Dispositivos"], "impostorWords": ["Samsung", "Xiaomi", "Oppo"] },
+  { "word": "Oppo", "hints": ["Tecnología", "Asia", "Dispositivos"], "impostorWords": ["Xiaomi", "Huawei", "Samsung"] },
+  { "word": "Sony", "hints": ["Tecnología", "Japón", "Entretenimiento"], "impostorWords": ["Nintendo", "Samsung", "LG"] },
+  { "word": "Nintendo", "hints": ["Tecnología", "Japón", "Entretenimiento"], "impostorWords": ["Sony", "Sega", "Microsoft"] },
+
+  { "word": "Coca-Cola", "hints": ["Bebida", "Azúcar", "Famosa"], "impostorWords": ["Pepsi", "Fanta", "Sprite"] },
+  { "word": "Pepsi", "hints": ["Bebida", "Azúcar", "Famosa"], "impostorWords": ["Coca-Cola", "7Up", "Dr Pepper"] },
+  { "word": "Fanta", "hints": ["Bebida", "Azúcar", "Gas"], "impostorWords": ["Kas", "Sprite", "Coca-Cola"] },
+  { "word": "Kas", "hints": ["Bebida", "Azúcar", "Gas"], "impostorWords": ["Fanta", "Sprite", "7Up"] },
+  { "word": "Sprite", "hints": ["Bebida", "Azúcar", "Gas"], "impostorWords": ["7Up", "Fanta", "Aquarius"] },
+  { "word": "7Up", "hints": ["Bebida", "Azúcar", "Gas"], "impostorWords": ["Sprite", "Pepsi", "Aquarius"] },
+  { "word": "Aquarius", "hints": ["Bebida", "Deporte", "Gas"], "impostorWords": ["Nestea", "Sprite", "Powerade"] },
+  { "word": "Nestea", "hints": ["Bebida", "Té", "Frío"], "impostorWords": ["Aquarius", "Lipton", "Fanta"] },
+
+  { "word": "Red Bull", "hints": ["Energía", "Lata", "Alas"], "impostorWords": ["Monster", "Burn", "Rockstar"] },
+  { "word": "Monster", "hints": ["Energía", "Lata", "Garra"], "impostorWords": ["Red Bull", "Burn", "Rockstar"] },
+  { "word": "Burn", "hints": ["Energía", "Lata", "Fuego"], "impostorWords": ["Red Bull", "Monster", "Rockstar"] },
+
+  { "word": "McDonald's", "hints": ["Comida", "Rápida", "Franquicia"], "impostorWords": ["Burger King", "KFC", "Five Guys"] },
+  { "word": "Burger King", "hints": ["Comida", "Rápida", "Franquicia"], "impostorWords": ["McDonald's", "KFC", "Five Guys"] },
+  { "word": "KFC", "hints": ["Comida", "Rápida", "Pollo"], "impostorWords": ["Popeyes", "McDonald's", "Burger King"] },
+  { "word": "Popeyes", "hints": ["Comida", "Rápida", "Pollo"], "impostorWords": ["KFC", "McDonald's", "Burger King"] },
+  { "word": "Five Guys", "hints": ["Comida", "Rápida", "Hamburguesa"], "impostorWords": ["McDonald's", "Burger King", "Goiko"] },
+  { "word": "Goiko", "hints": ["Comida", "Hamburguesa", "Carne"], "impostorWords": ["Five Guys", "Burger King", "Foster's Hollywood"] },
+
+  { "word": "Domino's Pizza", "hints": ["Comida", "Masa", "Domicilio"], "impostorWords": ["Telepizza", "Pizza Hut", "Papa John's"] },
+  { "word": "Telepizza", "hints": ["Comida", "Masa", "Domicilio"], "impostorWords": ["Domino's Pizza", "Pizza Hut", "Papa John's"] },
+  { "word": "Pizza Hut", "hints": ["Comida", "Masa", "Restaurante"], "impostorWords": ["Domino's Pizza", "Telepizza", "Papa John's"] },
+
+  { "word": "Starbucks", "hints": ["Café", "Vaso", "Sirena"], "impostorWords": ["Dunkin'", "Tim Hortons", "Nespresso"] },
+  { "word": "Dunkin'", "hints": ["Café", "Donut", "Dulce"], "impostorWords": ["Starbucks", "Tim Hortons", "McDonald's"] },
+  { "word": "Nespresso", "hints": ["Café", "Cápsula", "Casa"], "impostorWords": ["Starbucks", "Dolce Gusto", "Lavazza"] },
+
+  { "word": "Nike", "hints": ["Ropa", "Deporte", "Logo"], "impostorWords": ["Adidas", "Puma", "Reebok"] },
+  { "word": "Adidas", "hints": ["Ropa", "Deporte", "Rayas"], "impostorWords": ["Nike", "Puma", "New Balance"] },
+  { "word": "Puma", "hints": ["Ropa", "Deporte", "Felino"], "impostorWords": ["Nike", "Adidas", "Reebok"] },
+  { "word": "Reebok", "hints": ["Ropa", "Deporte", "Clásico"], "impostorWords": ["Nike", "Adidas", "Puma"] },
+  { "word": "New Balance", "hints": ["Ropa", "Deporte", "N"], "impostorWords": ["Adidas", "Asics", "Nike"] },
+
+  { "word": "Zara", "hints": ["Moda", "Tienda", "España"], "impostorWords": ["H&M", "Mango", "Pull&Bear"] },
+  { "word": "H&M", "hints": ["Moda", "Tienda", "Europa"], "impostorWords": ["Zara", "Primark", "Uniqlo"] },
+  { "word": "Mango", "hints": ["Moda", "Tienda", "España"], "impostorWords": ["Zara", "H&M", "Massimo Dutti"] },
+  { "word": "Primark", "hints": ["Moda", "Tienda", "Barato"], "impostorWords": ["H&M", "Zara", "Lefties"] },
+  { "word": "Pull&Bear", "hints": ["Moda", "Joven", "Tienda"], "impostorWords": ["Bershka", "Zara", "Stradivarius"] },
+  { "word": "Bershka", "hints": ["Moda", "Joven", "Tienda"], "impostorWords": ["Pull&Bear", "Stradivarius", "Zara"] },
+  { "word": "Stradivarius", "hints": ["Moda", "Joven", "Clave de sol"], "impostorWords": ["Bershka", "Pull&Bear", "Mango"] },
+  { "word": "Uniqlo", "hints": ["Moda", "Básicos", "Japón"], "impostorWords": ["H&M", "Zara", "Primark"] },
+  { "word": "Shein", "hints": ["Moda", "Online", "China"], "impostorWords": ["Zara", "H&M", "AliExpress"] },
+
+  { "word": "Gucci", "hints": ["Lujo", "Caro", "Italia"], "impostorWords": ["Louis Vuitton", "Prada", "Versace"] },
+  { "word": "Louis Vuitton", "hints": ["Lujo", "Caro", "Bolsos"], "impostorWords": ["Gucci", "Chanel", "Hermès"] },
+  { "word": "Chanel", "hints": ["Lujo", "Caro", "Perfume"], "impostorWords": ["Dior", "Louis Vuitton", "Yves Saint Laurent"] },
+  { "word": "Dior", "hints": ["Lujo", "Caro", "Francia"], "impostorWords": ["Chanel", "Gucci", "Versace"] },
+
+  { "word": "Ferrari", "hints": ["Coche", "Lujo", "Rojo"], "impostorWords": ["Lamborghini", "Porsche", "Bugatti"] },
+  { "word": "Lamborghini", "hints": ["Coche", "Lujo", "Toro"], "impostorWords": ["Ferrari", "Porsche", "McLaren"] },
+  { "word": "Porsche", "hints": ["Coche", "Lujo", "Alemania"], "impostorWords": ["Ferrari", "Lamborghini", "Audi"] },
+
+  { "word": "Toyota", "hints": ["Coche", "Marca", "Japón"], "impostorWords": ["Honda", "Ford", "Hyundai"] },
+  { "word": "Ford", "hints": ["Coche", "Marca", "EEUU"], "impostorWords": ["Toyota", "Chevrolet", "Volkswagen"] },
+  { "word": "Volkswagen", "hints": ["Coche", "Marca", "Alemania"], "impostorWords": ["Ford", "Toyota", "Audi"] },
+  { "word": "BMW", "hints": ["Coche", "Marca", "Conducir"], "impostorWords": ["Mercedes", "Audi", "Lexus"] },
+  { "word": "Mercedes", "hints": ["Coche", "Marca", "Estrella"], "impostorWords": ["BMW", "Audi", "Tesla"] },
+  { "word": "Audi", "hints": ["Coche", "Marca", "Aros"], "impostorWords": ["BMW", "Mercedes", "Volkswagen"] },
+  { "word": "Tesla", "hints": ["Coche", "Eléctrico", "Futuro"], "impostorWords": ["Toyota", "BMW", "Mercedes"] }
+]

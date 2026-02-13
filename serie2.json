@@ -1,0 +1,27 @@
+[
+  { "word": "Death Note", "hints": ["Anime", "Cuaderno", "Justicia"], "impostorWords": ["Code Geass", "Monster", "Ataque a los Titanes"] },
+  { "word": "Ataque a los Titanes", "hints": ["Anime", "Muros", "Gigantes"], "impostorWords": ["Neon Genesis Evangelion", "Fullmetal Alchemist", "Demon Slayer"] },
+  { "word": "Neon Genesis Evangelion", "hints": ["Anime", "Robots", "Psicológico"], "impostorWords": ["Gundam", "Ataque a los Titanes", "Code Geass"] },
+  { "word": "One Piece", "hints": ["Anime", "Piratas", "Viaje"], "impostorWords": ["Naruto", "Dragon Ball", "Fairy Tail"] },
+  { "word": "Arcane", "hints": ["Animación", "Magia", "Hermanas"], "impostorWords": ["Cyberpunk: Edgerunners", "Invincible", "Love, Death & Robots"] },
+
+  { "word": "Los Soprano", "hints": ["Mafia", "Familia", "Terapia"], "impostorWords": ["The Wire", "Boardwalk Empire", "El Padrino"] },
+  { "word": "The Wire", "hints": ["Policía", "Barrio", "Realismo"], "impostorWords": ["Los Soprano", "True Detective", "The Shield"] },
+  { "word": "Succession", "hints": ["Empresa", "Familia", "Ricos"], "impostorWords": ["Billions", "Mad Men", "House of Cards"] },
+  { "word": "Mad Men", "hints": ["Agencia", "Años 60", "Publicidad"], "impostorWords": ["Succession", "Los Soprano", "Suits"] },
+  { "word": "Peaky Blinders", "hints": ["Banda", "Inglaterra", "Apuestas"], "impostorWords": ["Taboo", "Sons of Anarchy", "Boardwalk Empire"] },
+
+  { "word": "BoJack Horseman", "hints": ["Animación", "Depresión", "Animales"], "impostorWords": ["Rick y Morty", "Futurama", "Family Guy"] },
+  { "word": "Rick y Morty", "hints": ["Animación", "Ciencia", "Abuelo"], "impostorWords": ["Futurama", "Solar Opposites", "BoJack Horseman"] },
+  { "word": "South Park", "hints": ["Animación", "Sátira", "Niños"], "impostorWords": ["Padre de Familia", "Los Simpson", "Beavis & Butt-Head"] },
+
+  { "word": "Mr. Robot", "hints": ["Hackers", "Mente", "Sociedad"], "impostorWords": ["Black Mirror", "Silicon Valley", "Matrix"] },
+  { "word": "Black Mirror", "hints": ["Futuro", "Tecnología", "Distopía"], "impostorWords": ["Severance", "Love, Death & Robots", "Utopía"] },
+  { "word": "Severance", "hints": ["Trabajo", "Memoria", "Oficina"], "impostorWords": ["Black Mirror", "Mr. Robot", "Devs"] },
+  { "word": "Dark", "hints": ["Tiempo", "Alemania", "Lluvia"], "impostorWords": ["Stranger Things", "1899", "Twin Peaks"] },
+  { "word": "Twin Peaks", "hints": ["Misterio", "Pueblo", "Sueños"], "impostorWords": ["Expediente X", "Dark", "True Detective"] },
+  { "word": "True Detective", "hints": ["Crimen", "Investigación", "Filosofía"], "impostorWords": ["Mindhunter", "Fargo", "Hannibal"] },
+  { "word": "Hannibal", "hints": ["Crimen", "Comida", "Psicópata"], "impostorWords": ["Dexter", "Mindhunter", "True Detective"] },
+  { "word": "Mindhunter", "hints": ["FBI", "Entrevistas", "Psicología"], "impostorWords": ["True Detective", "Hannibal", "Zodiac"] }
+]
+

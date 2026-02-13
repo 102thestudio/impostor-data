@@ -1,0 +1,8 @@
+[
+  { "word": "Michael Jackson", "hints": ["Pop", "Baile", "Guante"], "impostorWords": ["Prince", "Madonna", "Elvis Presley"] },
+  { "word": "Queen", "hints": ["Banda", "Rock", "Ópera"], "impostorWords": ["The Beatles", "AC/DC", "Rolling Stones"] },
+  { "word": "Bad Bunny", "hints": ["Latino", "Urbano", "Moda"], "impostorWords": ["J Balvin", "Ozuna", "Anuel AA"] },
+  { "word": "Taylor Swift", "hints": ["Pop", "Letras", "Giras"], "impostorWords": ["Ariana Grande", "Beyoncé", "Dua Lipa"] }
+]
+
+

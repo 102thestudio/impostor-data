@@ -1,0 +1,43 @@
+[
+  { "word": "Titanic", "hints": ["Historia", "Romance", "Agua"], "impostorWords": ["Avatar", "Pearl Harbor", "La Vida de Pi"] },
+  { "word": "Avatar", "hints": ["Mundo", "Guerra", "Azul"], "impostorWords": ["Titanic", "Dune", "Star Wars"] },
+  { "word": "Pearl Harbor", "hints": ["Historia", "Guerra", "Aviones"], "impostorWords": ["Titanic", "Oppenheimer", "Dunkerque"] },
+  { "word": "La Vida de Pi", "hints": ["Agua", "Supervivencia", "Animal"], "impostorWords": ["Titanic", "Náufrago", "Avatar"] },
+
+  { "word": "Inception", "hints": ["Mente", "Sueños", "Tiempo"], "impostorWords": ["Interstellar", "Matrix", "Tenet"] },
+  { "word": "Interstellar", "hints": ["Espacio", "Tiempo", "Futuro"], "impostorWords": ["Inception", "Gravity", "Marte (The Martian)"] },
+  { "word": "Matrix", "hints": ["Realidad", "Futuro", "Acción"], "impostorWords": ["Inception", "Terminator", "Blade Runner"] },
+  { "word": "Tenet", "hints": ["Tiempo", "Acción", "Espías"], "impostorWords": ["Inception", "Misión Imposible", "007"] },
+  { "word": "Gravity", "hints": ["Espacio", "Soledad", "Supervivencia"], "impostorWords": ["Interstellar", "Marte (The Martian)", "Alien"] },
+  { "word": "Marte (The Martian)", "hints": ["Espacio", "Soledad", "Supervivencia"], "impostorWords": ["Gravity", "Interstellar", "Alien"] },
+
+  { "word": "Star Wars", "hints": ["Espacio", "Guerra", "Saga"], "impostorWords": ["Star Trek", "Dune", "Guardianes de la Galaxia"] },
+  { "word": "Star Trek", "hints": ["Espacio", "Nave", "Exploración"], "impostorWords": ["Star Wars", "Alien", "Guardianes de la Galaxia"] },
+  { "word": "Dune", "hints": ["Desierto", "Guerra", "Futuro"], "impostorWords": ["Star Wars", "Mad Max", "Avatar"] },
+  { "word": "Guardianes de la Galaxia", "hints": ["Espacio", "Equipo", "Música"], "impostorWords": ["Star Wars", "Los Vengadores", "Star Trek"] },
+  { "word": "Alien", "hints": ["Espacio", "Terror", "Criatura"], "impostorWords": ["Depredador", "Star Trek", "Gravity"] },
+  { "word": "Mad Max", "hints": ["Desierto", "Coches", "Futuro"], "impostorWords": ["Dune", "Fast & Furious", "Terminator"] },
+
+  { "word": "Harry Potter", "hints": ["Magia", "Escuela", "Saga"], "impostorWords": ["El Señor de los Anillos", "Percy Jackson", "Las Crónicas de Narnia"] },
+  { "word": "El Señor de los Anillos", "hints": ["Fantasía", "Viaje", "Anillo"], "impostorWords": ["El Hobbit", "Harry Potter", "Juego de Tronos"] },
+  { "word": "El Hobbit", "hints": ["Fantasía", "Viaje", "Anillo"], "impostorWords": ["El Señor de los Anillos", "Narnia", "Harry Potter"] },
+  { "word": "Las Crónicas de Narnia", "hints": ["Fantasía", "Mundo", "Magia"], "impostorWords": ["Harry Potter", "El Señor de los Anillos", "Jumanji"] },
+  { "word": "Percy Jackson", "hints": ["Fantasía", "Dioses", "Joven"], "impostorWords": ["Harry Potter", "Hércules", "Furia de Titanes"] },
+
+  { "word": "Jurassic Park", "hints": ["Isla", "Animales", "Peligro"], "impostorWords": ["King Kong", "Jumanji", "Godzilla"] },
+  { "word": "Godzilla", "hints": ["Monstruo", "Gigante", "Destrucción"], "impostorWords": ["King Kong", "Pacific Rim", "Jurassic Park"] },
+  { "word": "King Kong", "hints": ["Monstruo", "Gigante", "Isla"], "impostorWords": ["Godzilla", "El Planeta de los Simios", "Jurassic Park"] },
+  { "word": "Jumanji", "hints": ["Juego", "Selva", "Peligro"], "impostorWords": ["Jurassic Park", "Indiana Jones", "Zathura"] },
+  { "word": "El Planeta de los Simios", "hints": ["Futuro", "Animales", "Guerra"], "impostorWords": ["King Kong", "Alien", "Jurassic Park"] },
+
+  { "word": "El Padrino", "hints": ["Crimen", "Familia", "Mafia"], "impostorWords": ["Scarface", "Uno de los nuestros (Goodfellas)", "Los Soprano"] },
+  { "word": "Scarface", "hints": ["Crimen", "Dinero", "Drogas"], "impostorWords": ["El Padrino", "Pulp Fiction", "Breaking Bad"] },
+  { "word": "Pulp Fiction", "hints": ["Crimen", "Violencia", "Historias"], "impostorWords": ["Kill Bill", "Reservoir Dogs", "Scarface"] },
+  { "word": "Kill Bill", "hints": ["Venganza", "Violencia", "Espada"], "impostorWords": ["Pulp Fiction", "John Wick", "Matrix"] },
+  { "word": "Uno de los nuestros (Goodfellas)", "hints": ["Crimen", "Mafia", "Amigos"], "impostorWords": ["El Padrino", "Casino", "El Irlandés"] },
+
+  { "word": "Oppenheimer", "hints": ["Historia", "Guerra", "Ciencia"], "impostorWords": ["Pearl Harbor", "Interstellar", "Descifrando Enigma"] },
+  { "word": "Barbie", "hints": ["Juguete", "Rosa", "Mundo"], "impostorWords": ["Toy Story", "La La Land", "Mujercitas"] },
+  { "word": "Toy Story", "hints": ["Juguete", "Amistad", "Animación"], "impostorWords": ["Barbie", "Shrek", "Buscando a Nemo"] },
+  { "word": "Shrek", "hints": ["Fantasía", "Humor", "Verde"], "impostorWords": ["Toy Story", "Monstruos S.A.", "Ice Age"] }
+]

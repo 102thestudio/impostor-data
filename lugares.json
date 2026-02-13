@@ -1,0 +1,39 @@
+[
+  { "word": "España", "hints": ["Europa", "Península", "Turismo"], "impostorWords": ["Italia", "Portugal", "Francia"] },
+  { "word": "Madrid", "hints": ["Capital", "Museos", "Europa"], "impostorWords": ["Barcelona", "Roma", "París"] },
+  { "word": "Barcelona", "hints": ["Ciudad", "Mar", "Arquitectura"], "impostorWords": ["Madrid", "Lisboa", "Valencia"] },
+  { "word": "Portugal", "hints": ["Europa", "Atlántico", "Vecino"], "impostorWords": ["España", "Italia", "Grecia"] },
+  { "word": "Lisboa", "hints": ["Capital", "Tranvía", "Río"], "impostorWords": ["Madrid", "Oporto", "Barcelona"] },
+
+  { "word": "Francia", "hints": ["Europa", "Torre", "Cultura"], "impostorWords": ["España", "Italia", "Alemania"] },
+  { "word": "París", "hints": ["Capital", "Luz", "Amor"], "impostorWords": ["Londres", "Roma", "Madrid"] },
+  { "word": "Italia", "hints": ["Europa", "Historia", "Bota"], "impostorWords": ["España", "Francia", "Grecia"] },
+  { "word": "Roma", "hints": ["Capital", "Imperio", "Antiguo"], "impostorWords": ["Atenas", "París", "Madrid"] },
+  { "word": "Venecia", "hints": ["Canales", "Agua", "Ciudad"], "impostorWords": ["Ámsterdam", "Roma", "Florencia"] },
+
+  { "word": "Reino Unido", "hints": ["Isla", "Europa", "Real"], "impostorWords": ["Irlanda", "Alemania", "Francia"] },
+  { "word": "Londres", "hints": ["Capital", "Río", "Niebla"], "impostorWords": ["Nueva York", "París", "Dublín"] },
+  { "word": "Alemania", "hints": ["Europa", "Centro", "Industria"], "impostorWords": ["Francia", "Austria", "Suiza"] },
+  { "word": "Berlín", "hints": ["Capital", "Muro", "Historia"], "impostorWords": ["Múnich", "Ámsterdam", "Viena"] },
+  { "word": "Países Bajos", "hints": ["Europa", "Plano", "Tulipanes"], "impostorWords": ["Bélgica", "Dinamarca", "Alemania"] },
+  { "word": "Ámsterdam", "hints": ["Capital", "Canales", "Bicicletas"], "impostorWords": ["Venecia", "Copenhague", "Berlín"] },
+  { "word": "Grecia", "hints": ["Europa", "Islas", "Historia"], "impostorWords": ["Italia", "Turquía", "Egipto"] },
+  { "word": "Atenas", "hints": ["Capital", "Ruinas", "Clásico"], "impostorWords": ["Roma", "El Cairo", "Estambul"] },
+
+  { "word": "Estados Unidos", "hints": ["América", "Norte", "Potencia"], "impostorWords": ["Canadá", "Reino Unido", "México"] },
+  { "word": "Nueva York", "hints": ["Ciudad", "Rascacielos", "Estatua"], "impostorWords": ["Chicago", "Londres", "Los Ángeles"] },
+  { "word": "Los Ángeles", "hints": ["Ciudad", "Cine", "Costa"], "impostorWords": ["Miami", "San Francisco", "Nueva York"] },
+  { "word": "Miami", "hints": ["Ciudad", "Playa", "Latino"], "impostorWords": ["Los Ángeles", "La Habana", "Cancún"] },
+  { "word": "Las Vegas", "hints": ["Ciudad", "Luces", "Juego"], "impostorWords": ["Nueva York", "Dubái", "Mónaco"] },
+
+  { "word": "México", "hints": ["América", "Norte", "Cultura"], "impostorWords": ["Colombia", "Perú", "España"] },
+  { "word": "Brasil", "hints": ["América", "Sur", "Selva"], "impostorWords": ["Argentina", "Colombia", "México"] },
+  { "word": "Río de Janeiro", "hints": ["Ciudad", "Carnaval", "Playa"], "impostorWords": ["Buenos Aires", "São Paulo", "Miami"] },
+  { "word": "Argentina", "hints": ["América", "Sur", "Tango"], "impostorWords": ["Uruguay", "Chile", "Brasil"] },
+  { "word": "Buenos Aires", "hints": ["Capital", "Puerto", "Europeo"], "impostorWords": ["Montevideo", "Santiago", "Madrid"] },
+  { "word": "Colombia", "hints": ["América", "Café", "Caribe"], "impostorWords": ["Venezuela", "Ecuador", "México"] },
+  { "word": "Perú", "hints": ["América", "Inca", "Montaña"], "impostorWords": ["Bolivia", "Chile", "México"] },
+
+  { "word": "Japón", "hints": ["Asia", "Isla", "Tecnología"], "impostorWords": ["China", "Corea del Sur", "Taiwán"] },
+  { "word": "Tokio", "hints": ["Capital", "Neón", "Gente"], "impostorWords": ["Seúl", "Nueva,
+

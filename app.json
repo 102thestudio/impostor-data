@@ -1,0 +1,82 @@
+
+[
+{ "word": "WhatsApp", "hints": ["Mensajes", "Verde", "Contactos"], "impostorWords": ["Telegram", "Messenger", "Signal"] },
+{ "word": "Telegram", "hints": ["Avión", "Azul", "Canales"], "impostorWords": ["WhatsApp", "Signal", "Discord"] },
+{ "word": "Messenger", "hints": ["Chat", "Azul", "Social"], "impostorWords": ["WhatsApp", "Instagram", "Facebook"] },
+
+{ "word": "Instagram", "hints": ["Fotos", "Historias", "Filtros"], "impostorWords": ["TikTok", "Snapchat", "Facebook"] },
+{ "word": "TikTok", "hints": ["Vertical", "Baile", "Scroll"], "impostorWords": ["Instagram", "YouTube", "Snapchat"] },
+{ "word": "Snapchat", "hints": ["Fantasma", "Efímero", "Filtros"], "impostorWords": ["Instagram", "TikTok", "BeReal"] },
+{ "word": "BeReal", "hints": ["Momento", "Ahora", "Sin filtros"], "impostorWords": ["Snapchat", "Instagram", "TikTok"] },
+{ "word": "Facebook", "hints": ["Azul", "Muro", "Amigos"], "impostorWords": ["Instagram", "Twitter (X)", "LinkedIn"] },
+{ "word": "Twitter (X)", "hints": ["Pájaro", "Hilo", "Opinión"], "impostorWords": ["Reddit", "Facebook", "Threads"] },
+{ "word": "Threads", "hints": ["Hilo", "Texto", "Nuevo"], "impostorWords": ["Twitter (X)", "Instagram", "Reddit"] },
+{ "word": "Reddit", "hints": ["Foro", "Karma", "Comunidad"], "impostorWords": ["Twitter (X)", "Discord", "Wikipedia"] },
+{ "word": "LinkedIn", "hints": ["Trabajo", "Profesional", "Contactos"], "impostorWords": ["InfoJobs", "Facebook", "Gmail"] },
+{ "word": "InfoJobs", "hints": ["Empleo", "Curriculum", "Ofertas"], "impostorWords": ["LinkedIn", "Indeed", "JobToday"] },
+{ "word": "Pinterest", "hints": ["Tablero", "Ideas", "Inspiración"], "impostorWords": ["Instagram", "Tumblr", "Google Photos"] },
+
+{ "word": "YouTube", "hints": ["Video", "Rojo", "Suscribirse"], "impostorWords": ["Twitch", "Netflix", "TikTok"] },
+{ "word": "Twitch", "hints": ["Directo", "Morado", "Chat"], "impostorWords": ["YouTube", "Discord", "Kick"] },
+{ "word": "Netflix", "hints": ["N", "Maratón", "Películas"], "impostorWords": ["Disney+", "Prime Video", "HBO Max"] },
+{ "word": "Disney+", "hints": ["Castillo", "Infantil", "Ratón"], "impostorWords": ["Netflix", "HBO Max", "Prime Video"] },
+{ "word": "Prime Video", "hints": ["Envíos", "Azul", "Películas"], "impostorWords": ["Netflix", "Disney+", "HBO Max"] },
+{ "word": "HBO Max", "hints": ["Series", "Calidad", "Morado"], "impostorWords": ["Netflix", "Disney+", "Prime Video"] },
+
+{ "word": "Spotify", "hints": ["Verde", "Música", "Listas"], "impostorWords": ["Apple Music", "SoundCloud", "YouTube Music"] },
+{ "word": "Apple Music", "hints": ["Nota", "Música", "Manzana"], "impostorWords": ["Spotify", "YouTube Music", "SoundCloud"] },
+{ "word": "SoundCloud", "hints": ["Nube", "Naranja", "Audio"], "impostorWords": ["Spotify", "Apple Music", "YouTube Music"] },
+{ "word": "Shazam", "hints": ["Escuchar", "Identificar", "Azul"], "impostorWords": ["Spotify", "Google", "SoundHound"] },
+
+{ "word": "Tinder", "hints": ["Fuego", "Deslizar", "Cita"], "impostorWords": ["Bumble", "Badoo", "Grindr"] },
+{ "word": "Grindr", "hints": ["Ubicación", "Máscara", "Cita"], "impostorWords": ["Tinder", "Bumble", "Badoo"] },
+
+{ "word": "Google Maps", "hints": ["Mapa", "Ruta", "Llegar"], "impostorWords": ["Waze", "Uber", "Google Earth"] },
+{ "word": "Waze", "hints": ["Coche", "Tráfico", "Fantasma"], "impostorWords": ["Google Maps", "Uber", "Cabify"] },
+{ "word": "Uber", "hints": ["Negro", "Coche", "Pedir"], "impostorWords": ["Cabify", "Bolt", "Taxi"] },
+{ "word": "Cabify", "hints": ["Morado", "Viaje", "Coche"], "impostorWords": ["Uber", "Bolt", "Taxi"] },
+{ "word": "BlaBlaCar", "hints": ["Compartir", "Viaje", "Asiento"], "impostorWords": ["Uber", "Alsa", "Renfe"] },
+
+{ "word": "Airbnb", "hints": ["Casa", "Alquiler", "Vacaciones"], "impostorWords": ["Booking", "TripAdvisor", "Trivago"] },
+{ "word": "Booking", "hints": ["Azul", "Hotel", "Reserva"], "impostorWords": ["Airbnb", "TripAdvisor", "Expedia"] },
+{ "word": "TripAdvisor", "hints": ["Búho", "Opiniones", "Viaje"], "impostorWords": ["Booking", "Airbnb", "Google Maps"] },
+
+{ "word": "Amazon", "hints": ["Sonrisa", "Caja", "Comprar"], "impostorWords": ["AliExpress", "eBay", "Mercado Libre"] },
+{ "word": "AliExpress", "hints": ["Naranja", "China", "Barato"], "impostorWords": ["Amazon", "Shein", "Temu"] },
+{ "word": "Shein", "hints": ["Ropa", "Moda", "Negro"], "impostorWords": ["AliExpress", "Zara", "Vinted"] },
+{ "word": "Temu", "hints": ["Naranja", "Ofertas", "Comprar"], "impostorWords": ["AliExpress", "Shein", "Amazon"] },
+{ "word": "Vinted", "hints": ["Segunda mano", "Ropa", "Vender"], "impostorWords": ["Wallapop", "Shein", "eBay"] },
+{ "word": "Wallapop", "hints": ["Cerca", "Vender", "Verde"], "impostorWords": ["Vinted", "eBay", "Milanuncios"] },
+{ "word": "eBay", "hints": ["Colores", "Subasta", "Comprar"], "impostorWords": ["Amazon", "Wallapop", "AliExpress"] },
+
+{ "word": "Zoom", "hints": ["Cámara", "Azul", "Reunión"], "impostorWords": ["Google Meet", "Skype", "Teams"] },
+{ "word": "Google Meet", "hints": ["Colores", "Video", "Google"], "impostorWords": ["Zoom", "Skype", "Teams"] },
+{ "word": "Skype", "hints": ["S", "Azul", "Llamada"], "impostorWords": ["Zoom", "Discord", "WhatsApp"] },
+{ "word": "Microsoft Teams", "hints": ["T", "Morado", "Trabajo"], "impostorWords": ["Zoom", "Google Meet", "Slack"] },
+{ "word": "Discord", "hints": ["Mando", "Gamer", "Voz"], "impostorWords": ["Slack", "Skype", "TeamSpeak"] },
+
+{ "word": "Gmail", "hints": ["M", "Rojo", "Correo"], "impostorWords": ["Outlook", "Yahoo", "Slack"] },
+{ "word": "Outlook", "hints": ["O", "Azul", "Correo"], "impostorWords": ["Gmail", "Teams", "Yahoo"] },
+
+{ "word": "Duolingo", "hints": ["Búho", "Verde", "Aprender"], "impostorWords": ["Babbel", "Google Translate", "Memrise"] },
+{ "word": "ChatGPT", "hints": ["Robot", "Chat", "IA"], "impostorWords": ["Google", "Wikipedia", "Siri"] },
+{ "word": "Wikipedia", "hints": ["W", "Saber", "Leer"], "impostorWords": ["Google", "ChatGPT", "Reddit"] },
+{ "word": "Google", "hints": ["G", "Buscar", "Todo"], "impostorWords": ["ChatGPT", "Wikipedia", "Bing"] },
+{ "word": "Google Drive", "hints": ["Triángulo", "Nube", "Guardar"], "impostorWords": ["Dropbox", "iCloud", "Gmail"] },
+{ "word": "Dropbox", "hints": ["Caja", "Azul", "Nube"], "impostorWords": ["Google Drive", "iCloud", "WeTransfer"] },
+
+{ "word": "Candy Crush", "hints": ["Dulces", "Colores", "Juego"], "impostorWords": ["Clash Royale", "Among Us", "Tetris"] },
+{ "word": "Clash Royale", "hints": ["Cartas", "Rey", "Torres"], "impostorWords": ["Brawl Stars", "Clash of Clans", "Candy Crush"] },
+{ "word": "Brawl Stars", "hints": ["Calavera", "Disparar", "Estrella"], "impostorWords": ["Clash Royale", "Among Us", "Roblox"] },
+{ "word": "Clash of Clans", "hints": ["Aldea", "Guerra", "Bárbaro"], "impostorWords": ["Clash Royale", "Brawl Stars", "Minecraft"] },
+{ "word": "Among Us", "hints": ["Espacio", "Impostor", "Nave"], "impostorWords": ["Roblox", "Minecraft", "Brawl Stars"] },
+{ "word": "Minecraft", "hints": ["Bloques", "Creeper", "Construir"], "impostorWords": ["Roblox", "Among Us", "Terraria"] },
+{ "word": "Roblox", "hints": ["Cuadrado", "Juegos", "Crear"], "impostorWords": ["Minecraft", "Among Us", "Brawl Stars"] },
+{ "word": "Pokemon GO", "hints": ["Caminar", "Bola", "Capturar"], "impostorWords": ["Clash Royale", "Google Maps", "Ingress"] },
+
+{ "word": "Strava", "hints": ["Naranja", "Correr", "Mapa"], "impostorWords": ["Google Maps", "Nike Run", "Garmin"] },
+{ "word": "Glovo", "hints": ["Amarillo", "Moto", "Comida"], "impostorWords": ["Uber Eats", "Just Eat", "Deliveroo"] },
+{ "word": "Uber Eats", "hints": ["Verde", "Tenedor", "Domicilio"], "impostorWords": ["Glovo", "Just Eat", "Uber"] },
+{ "word": "Just Eat", "hints": ["Rojo", "Casa", "Cena"], "impostorWords": ["Glovo", "Uber Eats", "Burger King"] }
+]
+

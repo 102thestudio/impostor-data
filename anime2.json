@@ -1,0 +1,51 @@
+[
+  { "word": "Doraemon", "hints": ["Gato", "Bolsillo", "Dorayaki"], "impostorWords": ["Nobita", "Shin-chan", "Pikachu"] },
+  { "word": "Nobita Nobi", "hints": ["Gafas", "Vago", "Ceros"], "impostorWords": ["Suneo", "Gigante", "Doraemon"] },
+  { "word": "Gigante", "hints": ["Cantar mal", "Fuerte", "Pegar"], "impostorWords": ["Suneo", "Nobita", "Kaito"] },
+  { "word": "Suneo", "hints": ["Rico", "Juguetes", "Presumido"], "impostorWords": ["Gigante", "Kazama", "Nobita"] },
+  { "word": "Shizuka", "hints": ["Violín", "Coletas", "Amable"], "impostorWords": ["Dorami", "Nene", "Misae"] },
+  { "word": "Dorami", "hints": ["Hermana", "Amarillo", "Futuro"], "impostorWords": ["Doraemon", "Shizuka", "Himawari"] },
+
+  { "word": "Shin-chan", "hints": ["Trompa", "Culo", "Travieso"], "impostorWords": ["Masao", "Nobita", "Kazama"] },
+  { "word": "Misae Nohara", "hints": ["Madre", "Tacaña", "Rebajas"], "impostorWords": ["Hiroshi", "Nene", "Himawari"] },
+  { "word": "Hiroshi Nohara", "hints": ["Pies", "Cerveza", "Hipoteca"], "impostorWords": ["Misae", "El Director", "Goku"] },
+  { "word": "Himawari", "hints": ["Bebé", "Joyas", "Gatear"], "impostorWords": ["Shin-chan", "Nevado", "Nene"] },
+  { "word": "Nevado", "hints": ["Perro", "Blanco", "Algodón"], "impostorWords": ["Himawari", "Pikachu", "Akamaru"] },
+  { "word": "Kazama", "hints": ["Inglés", "Academia", "Pijo"], "impostorWords": ["Shin-chan", "Suneo", "Masao"] },
+  { "word": "Bo-chan", "hints": ["Moco", "Piedras", "Tranquilo"], "impostorWords": ["Masao", "Nene", "Shin-chan"] },
+  { "word": "Nene", "hints": ["Conejito", "Casitas", "Ira"], "impostorWords": ["Shizuka", "Misae", "Masao"] },
+  { "word": "Masao", "hints": ["Cabeza", "Llorón", "Miedoso"], "impostorWords": ["Shin-chan", "Bo-chan", "Kazama"] },
+  { "word": "Ultrahéroe", "hints": ["Héroe", "Televisión", "Rayo"], "impostorWords": ["Cerdito Valiente", "Goku", "Superman"] },
+  { "word": "Goku", "hints": ["Saiyan", "Kamehameha", "Esferas"], "impostorWords": ["Vegeta", "Gohan", "Broly"] },
+  { "word": "Vegeta", "hints": ["Orgullo", "Príncipe", "Rival"], "impostorWords": ["Goku", "Piccolo", "Trunks"] },
+  { "word": "Monkey D. Luffy", "hints": ["Pirata", "Goma", "Sombrero"], "impostorWords": ["Zoro", "Ace", "Shanks"] },
+  { "word": "Roronoa Zoro", "hints": ["Espadas", "Perdido", "Verde"], "impostorWords": ["Sanji", "Luffy", "Mihawk"] },
+  { "word": "Naruto Uzumaki", "hints": ["Ninja", "Zorro", "Ramen"], "impostorWords": ["Sasuke", "Boruto", "Kakashi"] },
+  { "word": "Sasuke Uchiha", "hints": ["Venganza", "Ojos", "Rival"], "impostorWords": ["Itachi", "Naruto", "Madara"] },
+  { "word": "Kakashi Hatake", "hints": ["Máscara", "Maestro", "Copia"], "impostorWords": ["Obito", "Jiraiya", "Gojo"] },
+
+  { "word": "Tanjiro Kamado", "hints": ["Cazador", "Olfato", "Katana"], "impostorWords": ["Zenitsu", "Inosuke", "Rengoku"] },
+  { "word": "Nezuko Kamado", "hints": ["Bambú", "Caja", "Demonio"], "impostorWords": ["Shinobu", "Mitsuri", "Tanjiro"] },
+  { "word": "Satoru Gojo", "hints": ["Venda", "Infinito", "Ojos"], "impostorWords": ["Sukuna", "Itadori", "Kakashi"] },
+  { "word": "Eren Jaeger", "hints": ["Titán", "Murallas", "Libertad"], "impostorWords": ["Mikasa", "Armin", "Levi"] },
+  { "word": "Levi Ackerman", "hints": ["Limpieza", "Capitán", "Bajito"], "impostorWords": ["Eren", "Erwin", "Mikasa"] },
+
+  { "word": "Light Yagami", "hints": ["Cuaderno", "Manzana", "Justicia"], "impostorWords": ["L", "Ryuk", "Near"] },
+  { "word": "L (Lawliet)", "hints": ["Detective", "Dulces", "Sentado"], "impostorWords": ["Light", "Near", "Mello"] },
+  { "word": "Saitama", "hints": ["Calvo", "Puñetazo", "Capa"], "impostorWords": ["Genos", "Goku", "All Might"] },
+  { "word": "Izuku Midoriya", "hints": ["Héroe", "Pelo verde", "Pecas"], "impostorWords": ["Bakugo", "Todoroki", "All Might"] },
+  { "word": "Edward Elric", "hints": ["Alquimia", "Acero", "Bajito"], "impostorWords": ["Alphonse", "Roy Mustang", "Scar"] },
+  { "word": "Pikachu", "hints": ["Amarillo", "Rayo", "Mascota"], "impostorWords": ["Charmander", "Eevee", "Meowth"] },
+  { "word": "Ash Ketchum", "hints": ["Gorra", "Entrenador", "Viaje"], "impostorWords": ["Gary", "Brock", "Red"] },
+  { "word": "Anya Forger", "hints": ["Telépata", "Rosa", "Cacahuetes"], "impostorWords": ["Loid", "Yor", "Becky"] },
+  { "word": "Denji", "hints": ["Motosierra", "Pobre", "Perro"], "impostorWords": ["Power", "Aki", "Makima"] },
+
+  { "word": "El Viaje de Chihiro", "hints": ["Balneario", "Cerdos", "Sin Cara"], "impostorWords": ["Mi Vecino Totoro", "La Princesa Mononoke", "El Castillo Ambulante"] },
+  { "word": "Mi Vecino Totoro", "hints": ["Bosque", "Gato Bus", "Lluvia"], "impostorWords": ["Ponyo", "El Viaje de Chihiro", "Kiki"] },
+  { "word": "Your Name", "hints": ["Intercambio", "Cometa", "Cinta"], "impostorWords": ["El Tiempo Contigo", "Suzume", "A Silent Voice"] },
+  { "word": "Akira", "hints": ["Moto", "Neo-Tokyo", "Rojo"], "impostorWords": ["Ghost in the Shell", "Evangelion", "Cyberpunk"] },
+  { "word": "Neon Genesis Evangelion", "hints": ["Robots", "Ángeles", "Depresión"], "impostorWords": ["Gundam", "Code Geass", "Darling in the Franxx"] },
+  { "word": "One Piece", "hints": ["Tesoro", "Barco", "Fruta"], "impostorWords": ["Naruto", "Dragon Ball", "Fairy Tail"] }
+]
+
+

@@ -1,0 +1,32 @@
+[
+  { "word": "Elden Ring", "hints": ["Difícil", "Mundo Abierto", "Anillo"], "impostorWords": ["Dark Souls", "Bloodborne", "Skyrim"] },
+  { "word": "Dark Souls", "hints": ["Difícil", "Hogueras", "Oscuro"], "impostorWords": ["Elden Ring", "Bloodborne", "Demon's Souls"] },
+  { "word": "Bloodborne", "hints": ["Gótico", "Sangre", "Difícil"], "impostorWords": ["Dark Souls", "Elden Ring", "Resident Evil"] },
+  { "word": "Sekiro", "hints": ["Japón", "Espada", "Difícil"], "impostorWords": ["Ghost of Tsushima", "Elden Ring", "Ninja Gaiden"] },
+
+  { "word": "The Legend of Zelda", "hints": ["Espada", "Princesa", "Mazmorra"], "impostorWords": ["Final Fantasy", "Skyrim", "Elden Ring"] },
+  { "word": "Final Fantasy", "hints": ["RPG", "Historia", "Cristales"], "impostorWords": ["Dragon Quest", "Kingdom Hearts", "The Legend of Zelda"] },
+  { "word": "Kingdom Hearts", "hints": ["Llave", "Disney", "Amistad"], "impostorWords": ["Final Fantasy", "Disney Infinity", "Zelda"] },
+  { "word": "Skyrim", "hints": ["Dragones", "Nieve", "Rol"], "impostorWords": ["The Witcher 3", "Elden Ring", "Fallout"] },
+  { "word": "The Witcher 3", "hints": ["Brujo", "Monstruos", "Espadas"], "impostorWords": ["Skyrim", "Cyberpunk 2077", "Red Dead Redemption"] },
+  { "word": "Cyberpunk 2077", "hints": ["Futuro", "Implantes", "Ciudad"], "impostorWords": ["GTA V", "Deus Ex", "The Witcher 3"] },
+  { "word": "Fallout", "hints": ["Nuclear", "Refugio", "Yermo"], "impostorWords": ["Skyrim", "Borderlands", "BioShock"] },
+
+  { "word": "Resident Evil", "hints": ["Zombies", "Virus", "Survival"], "impostorWords": ["Silent Hill", "The Last of Us", "Dead Space"] },
+  { "word": "Silent Hill", "hints": ["Niebla", "Psicológico", "Pueblo"], "impostorWords": ["Resident Evil", "Alan Wake", "Outlast"] },
+  { "word": "The Last of Us", "hints": ["Infectados", "Viaje", "Historia"], "impostorWords": ["Uncharted", "Resident Evil", "God of War"] },
+  { "word": "Five Nights at Freddy's", "hints": ["Animatrónicos", "Cámaras", "Noche"], "impostorWords": ["Poppy Playtime", "Slender Man", "Among Us"] },
+
+  { "word": "Street Fighter", "hints": ["Lucha", "Hadouken", "Calle"], "impostorWords": ["Tekken", "Mortal Kombat", "Dragon Ball"] },
+  { "word": "Tekken", "hints": ["Lucha", "Torneo", "Puño"], "impostorWords": ["Street Fighter", "Mortal Kombat", "Virtua Fighter"] },
+  { "word": "Mortal Kombat", "hints": ["Sangre", "Fatality", "Lucha"], "impostorWords": ["Street Fighter", "Tekken", "Injustice"] },
+  { "word": "Super Smash Bros", "hints": ["Plataforma", "Crossover", "Nintendo"], "impostorWords": ["MultiVersus", "Brawlhalla", "Mario Kart"] },
+
+  { "word": "Hollow Knight", "hints": ["Insectos", "Subsuelo", "Difícil"], "impostorWords": ["Ori", "Cuphead", "Metroid"] },
+  { "word": "Cuphead", "hints": ["Dibujos", "Tazas", "Difícil"], "impostorWords": ["Hollow Knight", "Bendy", "Mario Bros"] },
+  { "word": "Undertale", "hints": ["Subsuelo", "Perdonar", "Esqueleto"], "impostorWords": ["Deltarune", "Earthbound", "Hollow Knight"] },
+
+  { "word": "Doom", "hints": ["Infierno", "Demonios", "Escopeta"], "impostorWords": ["Halo", "Wolfenstein", "Quake"] },
+  { "word": "Halo", "hints": ["Espacio", "Jefe Maestro", "Alienígenas"], "impostorWords": ["Doom", "Destiny", "Call of Duty"] },
+  { "word": "Counter-Strike", "hints": ["Terroristas", "Bomba", "Táctico"], "impostorWords": ["Valorant", "Rainbow Six", "Call of Duty"] }
+]

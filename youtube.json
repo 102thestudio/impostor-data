@@ -1,0 +1,34 @@
+[
+  { "word": "Ibai Llanos", "hints": ["Gigante", "Eventos", "Charlando"], "impostorWords": ["Auronplay", "TheGrefg", "MrBeast"] },
+  { "word": "Auronplay", "hints": ["Humor", "Reacciones", "Setup"], "impostorWords": ["Ibai Llanos", "Rubius", "Wismichu"] },
+  { "word": "ElRubius", "hints": ["Veterano", "Gatos", "Japón"], "impostorWords": ["Vegetta777", "Mangel", "PewDiePie"] },
+  { "word": "TheGrefg", "hints": ["Contador", "Gritos", "Premios"], "impostorWords": ["Ibai Llanos", "Ampeter", "DjMaRiiO"] },
+  { "word": "DjMaRiiO", "hints": ["Fútbol", "Gritos", "Camisetas"], "impostorWords": ["TheGrefg", "Ibai Llanos", "Spursito"] },
+  { "word": "IlloJuan", "hints": ["Andaluz", "Consolas", "Reír"], "impostorWords": ["ElXokas", "Knekro", "Ibai Llanos"] },
+  { "word": "ElXokas", "hints": ["Carácter", "Gritos", "Gafas"], "impostorWords": ["IlloJuan", "Jordi Wild", "Ibai Llanos"] },
+  { "word": "Jordi Wild", "hints": ["Podcast", "Entrevistas", "Rock"], "impostorWords": ["Ibai Llanos", "ElXokas", "YoSoyPlex"] },
+
+  { "word": "Vegetta777", "hints": ["Minecraft", "Morado", "Construir"], "impostorWords": ["Willyrex", "Staxx", "Luzu"] },
+  { "word": "Willyrex", "hints": ["Minecraft", "Compañero", "Ojos"], "impostorWords": ["Vegetta777", "Staxx", "Alexby11"] },
+  { "word": "Staxx", "hints": ["Shooter", "Minecraft", "Risa"], "impostorWords": ["Willyrex", "Vegetta777", "Alexby11"] },
+  { "word": "Luzu", "hints": ["Vlog", "USA", "Minecraft"], "impostorWords": ["Willyrex", "Vegetta777", "Lana"] },
+  { "word": "Alexby11", "hints": ["Pequeño", "Star Wars", "Minecraft"], "impostorWords": ["Staxx", "Mangel", "Rubius"] },
+  { "word": "Mangel", "hints": ["Gafas", "Humor", "Dúo"], "impostorWords": ["Rubius", "Alexby11", "Wismichu"] },
+  { "word": "Wismichu", "hints": ["Humor", "Polémica", "Cine"], "impostorWords": ["Auronplay", "Mangel", "Jordi Wild"] },
+
+  { "word": "MrBeast", "hints": ["Dinero", "Retos", "Regalar"], "impostorWords": ["PewDiePie", "Logan Paul", "Ibai Llanos"] },
+  { "word": "PewDiePie", "hints": ["Rey", "YouTube", "Suecia"], "impostorWords": ["MrBeast", "ElRubius", "Markiplier"] },
+  { "word": "Logan Paul", "hints": ["Boxeo", "Vlog", "Bebida"], "impostorWords": ["KSI", "MrBeast", "Ibai Llanos"] },
+  { "word": "KSI", "hints": ["Boxeo", "Música", "Banda"], "impostorWords": ["Logan Paul", "IShowSpeed", "MrBeast"] },
+  { "word": "IShowSpeed", "hints": ["Gritos", "Fútbol", "Ronaldo"], "impostorWords": ["Kai Cenat", "KSI", "Adin Ross"] },
+  { "word": "Kai Cenat", "hints": ["Twitch", "USA", "Pequeño"], "impostorWords": ["IShowSpeed", "Adin Ross", "xQc"] },
+  { "word": "xQc", "hints": ["Rubio", "Rápido", "Reacciones"], "impostorWords": ["Kai Cenat", "ElRubius", "PewDiePie"] },
+
+  { "word": "Spreen", "hints": ["Argentina", "Gafas", "Minecraft"], "impostorWords": ["ElMariana", "IlloJuan", "Rubius"] },
+  { "word": "ElMariana", "hints": ["México", "Gafas", "Humor"], "impostorWords": ["Spreen", "JuanSGuarnizo", "Rivers"] },
+  { "word": "Rivers", "hints": ["Fútbol", "México", "Pío"], "impostorWords": ["ElMariana", "Ibai Llanos", "Spreen"] },
+  { "word": "Nil Ojeda", "hints": ["Calle", "Retos", "Vlog"], "impostorWords": ["Misho", "YoSoyPlex", "Werlyb"] },
+  { "word": "Misho", "hints": ["Moda", "Alto", "Entrevistas"], "impostorWords": ["Nil Ojeda", "Werlyb", "YoSoyPlex"] }
+]
+
+

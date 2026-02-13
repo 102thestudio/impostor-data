@@ -1,0 +1,67 @@
+[
+  { "word": "Inteligencia Artificial", "hints": ["Futuro", "Aprendizaje", "Datos"], "impostorWords": ["Algoritmo", "Robot", "Chatbot"] },
+  { "word": "Robot", "hints": ["Máquina", "Automático", "Metal"], "impostorWords": ["Inteligencia Artificial", "Dron", "Cyborg"] },
+  { "word": "Algoritmo", "hints": ["Código", "Reglas", "Matemática"], "impostorWords": ["Software", "Programa", "Inteligencia Artificial"] },
+  { "word": "Chatbot", "hints": ["Conversación", "Texto", "Automático"], "impostorWords": ["Inteligencia Artificial", "Siri", "Asistente de Google"] },
+
+  { "word": "Smartphone", "hints": ["Dispositivo", "Mano", "Pantalla"], "impostorWords": ["Tablet", "Smartwatch", "Portátil"] },
+  { "word": "Tablet", "hints": ["Dispositivo", "Pantalla", "Táctil"], "impostorWords": ["Smartphone", "Portátil", "E-book"] },
+  { "word": "Portátil", "hints": ["Ordenador", "Teclado", "Trabajo"], "impostorWords": ["Tablet", "PC", "Smartphone"] },
+  { "word": "Smartwatch", "hints": ["Muñeca", "Hora", "Salud"], "impostorWords": ["Smartphone", "Pulsera de Actividad", "Reloj"] },
+  { "word": "PC (Torre)", "hints": ["Escritorio", "Potencia", "Gamer"], "impostorWords": ["Portátil", "Consola", "Servidor"] },
+
+  { "word": "Internet", "hints": ["Red", "Global", "Conexión"], "impostorWords": ["WiFi", "Web", "5G"] },
+  { "word": "WiFi", "hints": ["Inalámbrico", "Señal", "Router"], "impostorWords": ["Bluetooth", "Datos Móviles", "Fibra Óptica"] },
+  { "word": "Bluetooth", "hints": ["Corto alcance", "Emparejar", "Sin cables"], "impostorWords": ["WiFi", "NFC", "AirDrop"] },
+  { "word": "5G", "hints": ["Velocidad", "Cobertura", "Móvil"], "impostorWords": ["WiFi", "4G", "Fibra Óptica"] },
+  { "word": "Fibra Óptica", "hints": ["Cable", "Velocidad", "Casa"], "impostorWords": ["ADSL", "WiFi", "5G"] },
+  { "word": "Router", "hints": ["Aparato", "Luces", "Reiniciar"], "impostorWords": ["Módem", "Descodificador", "Switch"] },
+
+  { "word": "Realidad Virtual", "hints": ["Gafas", "Simulación", "Inmersivo"], "impostorWords": ["Realidad Aumentada", "Metaverso", "3D"] },
+  { "word": "Realidad Aumentada", "hints": ["Cámara", "Mezcla", "Pokémon GO"], "impostorWords": ["Realidad Virtual", "Holograma", "QR"] },
+  { "word": "Metaverso", "hints": ["Digital", "Mundo", "Avatar"], "impostorWords": ["Realidad Virtual", "Videojuego", "Internet"] },
+
+  { "word": "Windows", "hints": ["Sistema", "PC", "Ventanas"], "impostorWords": ["MacOS", "Linux", "Android"] },
+  { "word": "MacOS", "hints": ["Sistema", "Apple", "Ordenador"], "impostorWords": ["Windows", "iOS", "Linux"] },
+  { "word": "Linux", "hints": ["Sistema", "Pingüino", "Código Abierto"], "impostorWords": ["Windows", "MacOS", "Unix"] },
+  { "word": "Android", "hints": ["Sistema", "Móvil", "Google"], "impostorWords": ["iOS", "Windows", "HarmonyOS"] },
+  { "word": "iOS", "hints": ["Sistema", "Apple", "iPhone"], "impostorWords": ["Android", "MacOS", "iPadOS"] },
+
+  { "word": "USB", "hints": ["Conector", "Cable", "Datos"], "impostorWords": ["HDMI", "Cargador", "Thunderbolt"] },
+  { "word": "HDMI", "hints": ["Cable", "Video", "Pantalla"], "impostorWords": ["USB", "VGA", "DisplayPort"] },
+  { "word": "Cargador", "hints": ["Energía", "Enchufe", "Cable"], "impostorWords": ["Batería", "USB", "Power Bank"] },
+  { "word": "Batería", "hints": ["Energía", "Porcentaje", "Litio"], "impostorWords": ["Cargador", "Pila", "Power Bank"] },
+  { "word": "Auriculares", "hints": ["Oído", "Música", "Sonido"], "impostorWords": ["Altavoces", "Micrófono", "AirPods"] },
+  { "word": "Ratón", "hints": ["Click", "Mano", "Cursor"], "impostorWords": ["Teclado", "Touchpad", "Pantalla"] },
+  { "word": "Teclado", "hints": ["Escribir", "Manos", "Periférico"], "impostorWords": ["Ratón", "Pantalla", "Mando"] },
+
+  { "word": "Control + Z", "hints": ["Atajo", "Informática", "Función"], "impostorWords": ["Control + C", "Control + V", "Alt + F4"] },
+  { "word": "Control + C", "hints": ["Atajo", "Informática", "Funcioó"], "impostorWords": ["Control + V", "Control + Z", "Cortar"] },
+  { "word": "Control + V", "hints": ["Atajo", "Informática", "Función"], "impostorWords": ["Control + C", "Control + Z", "Guardar"] },
+  { "word": "Alt + F4", "hints": ["Atajo", "Informática", "Broma"], "impostorWords": ["Control + Z", "Reiniciar", "Apagar"] },
+
+  { "word": "Error 404", "hints": ["Fallo", "No encontrado", "Web"], "impostorWords": ["Pantallazo Azul", "Bug", "Lag"] },
+  { "word": "Pantallazo Azul", "hints": ["Fallo", "Windows", "Miedo"], "impostorWords": ["Error 404", "Reinicio", "Virus"] },
+  { "word": "Bug", "hints": ["Fallo", "Código", "Error"], "impostorWords": ["Glitch", "Virus", "Lag"] },
+  { "word": "Lag", "hints": ["Lento", "Retraso", "Conexión"], "impostorWords": ["Bug", "Ping", "FPS"] },
+  { "word": "Virus", "hints": ["Infección", "Malware", "Peligro"], "impostorWords": ["Bug", "Hacker", "Spam"] },
+  { "word": "Hacker", "hints": ["Seguridad", "Pirata", "Código"], "impostorWords": ["Programador", "Virus", "Phishing"] },
+
+  { "word": "Movistar", "hints": ["Operadora", "Azul", "Fibra"], "impostorWords": ["Vodafone", "Orange", "Yoigo"] },
+  { "word": "Vodafone", "hints": ["Operadora", "Rojo", "Fibra"], "impostorWords": ["Movistar", "Orange", "Lowi"] },
+  { "word": "Orange", "hints": ["Operadora", "Naranja", "Fibra"], "impostorWords": ["Vodafone", "Movistar", "Jazztel"] },
+  { "word": "Yoigo", "hints": ["Operadora", "Morado", "Móvil"], "impostorWords": ["Digi", "Pepephone", "Simyo"] },
+  { "word": "Digi", "hints": ["Operadora", "Barato", "Azul"], "impostorWords": ["Yoigo", "Lowi", "O2"] },
+
+  { "word": "Modo Incógnito", "hints": ["Navegador", "Secreto", "Privacidad"], "impostorWords": ["Historial", "VPN", "Cookies"] },
+  { "word": "Cookies", "hints": ["Aceptar", "Rastreo", "Galleta"], "impostorWords": ["Virus", "Historial", "Caché"] },
+  { "word": "Contraseña", "hints": ["Seguridad", "Clave", "Acceso"], "impostorWords": ["Usuario", "Huella", "FaceID"] },
+  { "word": "Nube", "hints": ["Almacenamiento", "Internet", "Subir"], "impostorWords": ["Disco Duro", "USB", "Descarga"] },
+  { "word": "Disco Duro", "hints": ["Almacenamiento", "Espacio", "Gigas"], "impostorWords": ["RAM", "Nube", "Procesador"] },
+
+  { "word": "Bitcoin", "hints": ["Moneda", "Digital", "Cripto"], "impostorWords": ["Ethereum", "NFT", "Euro"] },
+  { "word": "NFT", "hints": ["Arte", "Digital", "Único"], "impostorWords": ["Bitcoin", "JPG", "Metaverso"] },
+  { "word": "PDF", "hints": ["Documento", "Lectura", "Formato"], "impostorWords": ["Word", "Excel", "JPG"] },
+  { "word": "Excel", "hints": ["Hojas", "Cálculo", "Celdas"], "impostorWords": ["Word", "PowerPoint", "PDF"] }
+]
+

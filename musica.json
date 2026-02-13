@@ -1,0 +1,41 @@
+[
+  { "word": "Michael Jackson", "hints": ["Rey", "Pop", "Guante"], "impostorWords": ["Prince", "Bruno Mars", "Madonna"] },
+  { "word": "Rosalía", "hints": ["Motomami", "Uñas", "Tratrá"], "impostorWords": ["C. Tangana", "Bad Gyal", "Nathy Peluso"] },
+  { "word": "Raphael", "hints": ["Escándalo", "Gestos", "Divo"], "impostorWords": ["Julio Iglesias", "Camilo Sesto", "Nino Bravo"] },
+  { "word": "Julio Iglesias", "hints": ["Bronceado", "Padre", "Truhán"], "impostorWords": ["Raphael", "Bertín Osborne", "José Luis Perales"] },
+  { "word": "Estopa", "hints": ["Rumba", "Hermanos", "Coche"], "impostorWords": ["Melendi", "Fito & Fitipaldis", "El Canto del Loco"] },
+  { "word": "Melendi", "hints": ["Rumba", "Asturias", "Rastas (antes)"], "impostorWords": ["Estopa", "David Bisbal", "Manuel Carrasco"] },
+  { "word": "Joaquín Sabina", "hints": ["Bombín", "Voz rota", "19 días"], "impostorWords": ["Joan Manuel Serrat", "Andrés Calamaro", "Loquillo"] },
+  { "word": "David Bisbal", "hints": ["Rizos", "Vueltas", "Almería"], "impostorWords": ["Bustamante", "Chenoa", "Alejandro Sanz"] },
+  { "word": "Alejandro Sanz", "hints": ["Corazón", "Voz rasgada", "Piano"], "impostorWords": ["Pablo Alborán", "Antonio Orozco", "David Bisbal"] },
+  { "word": "C. Tangana", "hints": ["Madrileño", "Mesa", "Sin cantar"], "impostorWords": ["Rosalía", "Quevedo", "Omar Montes"] },
+
+  { "word": "Queen", "hints": ["Bigote", "Estadio", "Himnos"], "impostorWords": ["The Beatles", "AC/DC", "Elton John"] },
+  { "word": "The Beatles", "hints": ["Liverpool", "Paso de cebra", "Flequillos"], "impostorWords": ["Rolling Stones", "Queen", "Pink Floyd"] },
+  { "word": "Rolling Stones", "hints": ["Lengua", "Viejos", "Morros"], "impostorWords": ["The Beatles", "Aerosmith", "AC/DC"] },
+  { "word": "Héroes del Silencio", "hints": ["Zaragoza", "Rock", "Avalancha"], "impostorWords": ["Bunbury", "Loquillo", "Mago de Oz"] },
+  { "word": "Mecano", "hints": ["80s", "Trío", "Nueva York"], "impostorWords": ["Alaska", "Hombres G", "La Oreja de Van Gogh"] },
+  { "word": "La Oreja de Van Gogh", "hints": ["Playa", "San Sebastián", "Pop"], "impostorWords": ["Amaral", "El Canto del Loco", "Mecano"] },
+  { "word": "El Canto del Loco", "hints": ["Zapatillas", "Dani", "2000s"], "impostorWords": ["Pereza", "Hombres G", "Estopa"] },
+  { "word": "Extremoduro", "hints": ["Transgresivo", "Robe", "Poesía"], "impostorWords": ["Marea", "Platero y Tú", "Barricada"] },
+
+  { "word": "Shakira", "hints": ["Caderas", "Loba", "Barranquilla"], "impostorWords": ["Jennifer Lopez", "Karol G", "Rosalía"] },
+  { "word": "Bad Bunny", "hints": ["Conejo", "Trap", "Verano"], "impostorWords": ["Anuel AA", "J Balvin", "Daddy Yankee"] },
+  { "word": "Daddy Yankee", "hints": ["Gasolina", "Reggaeton", "Jefe"], "impostorWords": ["Don Omar", "Bad Bunny", "Pitbull"] },
+  { "word": "Jennifer Lopez", "hints": ["Bronx", "Anillo", "Baile"], "impostorWords": ["Shakira", "Beyoncé", "Ricky Martin"] },
+  { "word": "Ricky Martin", "hints": ["Vida Loca", "Movimiento", "Puerto Rico"], "impostorWords": ["Chayanne", "Enrique Iglesias", "Luis Fonsi"] },
+  { "word": "Bizarrap", "hints": ["Gorra", "Sesiones", "Productor"], "impostorWords": ["Quevedo", "Duki", "Bad Bunny"] },
+  { "word": "Quevedo", "hints": ["Canarias", "Quédate", "Grave"], "impostorWords": ["Bizarrap", "Bad Bunny", "Mora"] },
+
+  { "word": "Madonna", "hints": ["Reina", "Pop", "Rubia"], "impostorWords": ["Lady Gaga", "Britney Spears", "Cher"] },
+  { "word": "Lady Gaga", "hints": ["Extravagante", "Poker", "Cine"], "impostorWords": ["Madonna", "Katy Perry", "Beyoncé"] },
+  { "word": "Beyoncé", "hints": ["Diva", "Baile", "Single"], "impostorWords": ["Rihanna", "Jennifer Lopez", "Shakira"] },
+  { "word": "Rihanna", "hints": ["Paraguas", "Barbados", "Empresaria"], "impostorWords": ["Beyoncé", "Katy Perry", "Dua Lipa"] },
+  { "word": "Taylor Swift", "hints": ["Eras", "Ex-novios", "Rubia"], "impostorWords": ["Katy Perry", "Ariana Grande", "Miley Cyrus"] },
+  { "word": "Adele", "hints": ["Triste", "Piano", "Inglesa"], "impostorWords": ["Amy Winehouse", "Sia", "Celine Dion"] },
+
+  { "word": "Eminem", "hints": ["Rap", "Rápido", "Blanco"], "impostorWords": ["50 Cent", "Snoop Dogg", "Jay-Z"] },
+  { "word": "Elvis Presley", "hints": ["Rey", "Rock", "Cadera"], "impostorWords": ["Michael Jackson", "John Lennon", "Freddie Mercury"] }
+]
+
+

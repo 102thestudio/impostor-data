@@ -1,0 +1,39 @@
+[
+  { "word": "Lola Lolita", "hints": ["Baile", "Premios", "Viral"], "impostorWords": ["Marina Rivers", "Mar Lucas", "Sofía Surferss"] },
+  { "word": "Marina Rivers", "hints": ["Baile", "La Velada", "Influencer"], "impostorWords": ["Lola Lolita", "Mar Lucas", "La Pija y la Quinqui"] },
+  { "word": "Mar Lucas", "hints": ["Música", "Sonrisa", "Baile"], "impostorWords": ["Lola Lolita", "Twin Melody", "Marina Rivers"] },
+  { "word": "Sofía Surferss", "hints": ["Hermanas", "Viajes", "Fotos"], "impostorWords": ["Lola Lolita", "Marta Díaz", "Mar Lucas"] },
+  { "word": "Twin Melody", "hints": ["Gemelas", "Cantantes", "Baile"], "impostorWords": ["Mar Lucas", "Lola Lolita", "Paula Gonu"] },
+  { "word": "Marta Díaz", "hints": ["Lifestyle", "YouTube", "Moda"], "impostorWords": ["Sofía Surferss", "Lola Lolita", "Violeta Mangriñán"] },
+  { "word": "Violeta Mangriñán", "hints": ["TV", "Moda", "Familia"], "impostorWords": ["Marta Díaz", "Dulceida", "Laura Escanes"] },
+  { "word": "Dulceida", "hints": ["Pionera", "Premios", "Moda"], "impostorWords": ["Violeta Mangriñán", "Laura Escanes", "Maria Pombo"] },
+  { "word": "Maria Pombo", "hints": ["Familia", "Marca", "Eventos"], "impostorWords": ["Dulceida", "Laura Escanes", "Marta Díaz"] },
+  { "word": "Laura Escanes", "hints": ["Podcast", "Lifestyle", "Viral"], "impostorWords": ["Maria Pombo", "Dulceida", "Violeta Mangriñán"] },
+
+  { "word": "Nachter", "hints": ["Humor", "Familia", "Sketch"], "impostorWords": ["Esperansa Grasia", "Xuso Jones", "Rubentonces"] },
+  { "word": "Esperansa Grasia", "hints": ["Humor", "USA", "Personajes"], "impostorWords": ["Nachter", "Lalachus", "Ale Agulló"] },
+  { "word": "Rubentonces", "hints": ["Humor", "Pelucas", "Sketch"], "impostorWords": ["Nachter", "Sensillo Con S", "Pablogshow"] },
+  { "word": "Ale Agulló", "hints": ["Humor", "Cara", "La madre"], "impostorWords": ["Esperansa Grasia", "Lalachus", "Rubentonces"] },
+  { "word": "Lalachus", "hints": ["Humor", "Relatos", "Milenial"], "impostorWords": ["Esperansa Grasia", "Ale Agulló", "Gersanc"] },
+  { "word": "Pablogshow", "hints": ["Humor", "Clases", "Estudiantes"], "impostorWords": ["Rubentonces", "Nachter", "Ceciarmy"] },
+
+  { "word": "Ceciarmy", "hints": ["Máscara", "Memes", "Ejército"], "impostorWords": ["YoSoyPlex", "Adri Contreras", "Auronplay"] },
+  { "word": "YoSoyPlex", "hints": ["Vuelta al mundo", "Retos", "Animales"], "impostorWords": ["Ceciarmy", "Ibai Llanos", "ElRubius"] },
+  { "word": "Adri Contreras", "hints": ["Fútbol", "Kings League", "Camisetas"], "impostorWords": ["Ceciarmy", "Ibai Llanos", "Spursito"] },
+  { "word": "Spursito", "hints": ["Fútbol", "Andorra", "Humor"], "impostorWords": ["Adri Contreras", "DjMaRiiO", "Papi Gavi"] },
+  { "word": "Papi Gavi", "hints": ["Fútbol", "Pasión", "Niños"], "impostorWords": ["Spursito", "DjMaRiiO", "Ibai Llanos"] },
+
+  { "word": "Peldanyos", "hints": ["Comida", "Probar", "Viajes"], "impostorWords": ["Cenando con Pablo", "Cocina con Coqui", "Elias Dosunmu"] },
+  { "word": "Rorro", "hints": ["Comida", "Pareja", "Cocina"], "impostorWords": ["Peldanyos", "Gin", "La Cocina del Pirata"] },
+  { "word": "La Cocina del Pirata", "hints": ["Comida", "YouTube", "Fritos"], "impostorWords": ["Elias Dosunmu", "Cenando con Pablo", "Gin"] },
+
+  { "word": "Nude Project", "hints": ["Podcast", "Marca", "Entrevistas"], "impostorWords": ["La Pija y la Quinqui", "Yo Interneto", "The Wild Project"] },
+  { "word": "La Pija y la Quinqui", "hints": ["Podcast", "Dúo", "Charlas"], "impostorWords": ["Nude Project", "Estirando el Chicle", "Marina Rivers"] },
+  { "word": "The Wild Project", "hints": ["Podcast", "Jordi Wild", "Largo"], "impostorWords": ["Nude Project", "Yo Interneto", "Ibai Llanos"] },
+  { "word": "Yo Interneto", "hints": ["Podcast", "Caos", "Internet"], "impostorWords": ["The Wild Project", "Nude Project", "La Resistencia"] },
+
+  { "word": "Farmacéutico Fernández", "hints": ["Salud", "Consejos", "Humor"], "impostorWords": ["Enfermera Saturada", "LawTips", "Xuso Jones"] },
+  { "word": "LawTips", "hints": ["Leyes", "Derecho", "Consejos"], "impostorWords": ["Farmacéutico Fernández", "Enfermera Saturada", "Adri Contreras"] },
+  { "word": "Jaime Altozano", "hints": ["Música", "Análisis", "YouTube"], "impostorWords": ["Christian Flores", "Ter", "ShaunTrack"] },
+  { "word": "Ter", "hints": ["Arquitectura", "Análisis", "YouTube"], "impostorWords": ["Jaime Altozano", "Christian Flores", "Marta Díaz"] }
+]
