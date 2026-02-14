@@ -18,32 +18,27 @@
   { "word": "Esquí", "hints": ["Invierno", "Velocidad", "Equilibrio"], "impostorWords": ["Snowboard", "Patinaje", "Alpinismo"] },
   { "word": "Snowboard", "hints": ["Invierno", "Salto", "Equilibrio"], "impostorWords": ["Esquí", "Surf", "Skate"] },
   { "word": "Surf", "hints": ["Agua", "Equilibrio", "Espera"], "impostorWords": ["Snowboard", "Skate", "Vela"] },
-  { "word": "Ping Pong", "hints": ["Mesa", "Reflejos", "Red"], "impostorWords": ["Tenis", "Bádminton", "Pádel"] }
-
+  { "word": "Ping Pong", "hints": ["Mesa", "Reflejos", "Red"], "impostorWords": ["Tenis", "Bádminton", "Pádel"] },
   { "word": "Lionel Messi", "hints": ["Zurdo", "Capitán", "Goles"], "impostorWords": ["Maradona", "Cristiano Ronaldo", "Dybala"] },
   { "word": "Cristiano Ronaldo", "hints": ["Goles", "Físico", "Veterano"], "impostorWords": ["Messi", "Mbappé", "Lewandowski"] },
   { "word": "Kylian Mbappé", "hints": ["Rápido", "Delantero", "Estrella"], "impostorWords": ["Haaland", "Vinicius", "Henry"] },
   { "word": "Lamine Yamal", "hints": ["Joven", "Zurdo", "Regate"], "impostorWords": ["Nico Williams", "Ansu Fati", "Pedri"] },
   { "word": "Vinicius Jr", "hints": ["Banda", "Rápido", "Regate"], "impostorWords": ["Neymar", "Rodrygo", "Mbappé"] },
   { "word": "Neymar Jr", "hints": ["Técnica", "Regate", "Brasil"], "impostorWords": ["Ronaldinho", "Vinicius", "Robinho"] },
-
   { "word": "Rafa Nadal", "hints": ["Fuerza", "Campeón", "Raqueta"], "impostorWords": ["Alcaraz", "Federer", "Ferrer"] },
   { "word": "Carlos Alcaraz", "hints": ["Joven", "Raqueta", "Derecha"], "impostorWords": ["Nadal", "Sinner", "Ferrero"] },
   { "word": "Roger Federer", "hints": ["Clase", "Raqueta", "Precisión"], "impostorWords": ["Nadal", "Djokovic", "Murray"] },
   { "word": "Novak Djokovic", "hints": ["Número 1", "Raqueta", "Récord"], "impostorWords": ["Nadal", "Federer", "Medvedev"] },
-
   { "word": "Fernando Alonso", "hints": ["Veterano", "Motor", "Casco"], "impostorWords": ["Carlos Sainz", "Hamilton", "Vettel"] },
   { "word": "Carlos Sainz", "hints": ["Estrategia", "Motor", "Casco"], "impostorWords": ["Fernando Alonso", "Leclerc", "Norris"] },
   { "word": "Max Verstappen", "hints": ["Agresivo", "Campeón", "Motor"], "impostorWords": ["Hamilton", "Leclerc", "Vettel"] },
   { "word": "Lewis Hamilton", "hints": ["Récord", "Campeón", "Motor"], "impostorWords": ["Verstappen", "Alonso", "Senna"] },
   { "word": "Michael Schumacher", "hints": ["Leyenda", "Rojo", "Campeón"], "impostorWords": ["Senna", "Hamilton", "Vettel"] },
-
   { "word": "Michael Jordan", "hints": ["Leyenda", "Salto", "Canasta"], "impostorWords": ["LeBron James", "Kobe Bryant", "Magic"] },
   { "word": "LeBron James", "hints": ["Físico", "Veterano", "Anillo"], "impostorWords": ["Jordan", "Curry", "Durant"] },
   { "word": "Stephen Curry", "hints": ["Tiro", "Base", "Anillo"], "impostorWords": ["Doncic", "Lillard", "Thompson"] },
   { "word": "Luka Doncic", "hints": ["Magia", "Base", "Europa"], "impostorWords": ["Jokic", "Nowitzki", "Curry"] },
   { "word": "Pau Gasol", "hints": ["Altura", "Leyenda", "Europa"], "impostorWords": ["Marc Gasol", "Navarro", "Nowitzki"] },
-
   { "word": "Ilia Topuria", "hints": ["Cinturón", "Golpe", "Invicto"], "impostorWords": ["McGregor", "Volkanovski", "Holloway"] },
   { "word": "Conor McGregor", "hints": ["Dinero", "Golpe", "Show"], "impostorWords": ["Khabib", "Topuria", "Mayweather"] },
   { "word": "Usain Bolt", "hints": ["Rápido", "Récord", "Oro"], "impostorWords": ["Phelps", "Powell", "Gatlin"] },
