@@ -8,26 +8,23 @@
   { "word": "Farmacia de Guardia", "hints": ["Botica", "Noche", "Clásico"], "impostorWords": ["Médico de Familia", "7 Vidas", "Verano Azul"] },
   { "word": "Cuéntame cómo pasó", "hints": ["Historia", "Familia", "Pasado"], "impostorWords": ["Los Serrano", "Verano Azul", "Amar en tiempos revueltos"] },
   { "word": "Verano Azul", "hints": ["Bicicletas", "Playa", "Barco"], "impostorWords": ["Cuéntame cómo pasó", "Farmacia de Guardia", "El Barco"] },
-
   { "word": "El Hormiguero", "hints": ["Noche", "Entrevista", "Ciencia"], "impostorWords": ["La Resistencia", "Late Motiv", "El Intermedio"] },
   { "word": "La Resistencia", "hints": ["Noche", "Entrevista", "Caos"], "impostorWords": ["El Hormiguero", "Late Motiv", "LocoMundo"] },
   { "word": "Late Motiv", "hints": ["Noche", "Monólogo", "Banda"], "impostorWords": ["La Resistencia", "Buenafuente", "El Hormiguero"] },
   { "word": "El Intermedio", "hints": ["Noticias", "Humor", "Política"], "impostorWords": ["El Hormiguero", "Salvados", "Caiga Quien Caiga"] },
-
   { "word": "MasterChef", "hints": ["Cocina", "Delantal", "Jueces"], "impostorWords": ["Top Chef", "Pesadilla en la Cocina", "Bake Off"] },
   { "word": "Pesadilla en la Cocina", "hints": ["Restaurante", "Gritos", "Suciedad"], "impostorWords": ["MasterChef", "Joc de Cartes", "Hotel Hell"] },
   { "word": "Operación Triunfo", "hints": ["Academia", "Cantar", "Gala"], "impostorWords": ["La Voz", "Tu cara me suena", "Factor X"] },
   { "word": "La Voz", "hints": ["Sillas", "Cantar", "Audición"], "impostorWords": ["Operación Triunfo", "Got Talent", "Factor X"] },
   { "word": "Got Talent", "hints": ["Talento", "Botón", "Teatro"], "impostorWords": ["La Voz", "Tu sí que vales", "Factor X"] },
   { "word": "Tu cara me suena", "hints": ["Imitar", "Famosos", "Pulsador"], "impostorWords": ["Operación Triunfo", "La Voz", "Lluvia de Estrellas"] },
-
   { "word": "Supervivientes", "hints": ["Isla", "Hambre", "Palapa"], "impostorWords": ["Gran Hermano", "La Isla de las Tentaciones", "Pekín Express"] },
   { "word": "Gran Hermano", "hints": ["Ojo", "Encierro", "Súper"], "impostorWords": ["Supervivientes", "La Isla de las Tentaciones", "Sálvame"] },
   { "word": "La Isla de las Tentaciones", "hints": ["Parejas", "Tablet", "Hoguera"], "impostorWords": ["Gran Hermano", "Supervivientes", "First Dates"] },
   { "word": "First Dates", "hints": ["Cita", "Cena", "Amor"], "impostorWords": ["La Isla de las Tentaciones", "Mujeres y Hombres", "El Diario de Patricia"] },
   { "word": "Sálvame", "hints": ["Corazón", "Tarde", "Plató"], "impostorWords": ["Gran Hermano", "El Chiringuito", "El Diario de Patricia"] },
   { "word": "El Chiringuito", "hints": ["Fútbol", "Debate", "Gritos"], "impostorWords": ["Sálvame", "Estudio Estadio", "Deportes Cuatro"] },
-
   { "word": "Grand Prix", "hints": ["Vaquilla", "Pueblos", "Verano"], "impostorWords": ["El Juego de la Oca", "Humor Amarillo", "Un, dos, tres"] },
   { "word": "Humor Amarillo", "hints": ["Caídas", "Japonés", "Castillo"], "impostorWords": ["Grand Prix", "El Juego de la Oca", "Wipeout"] },
-  { "word": "Pasapalabra", "hints": ["Ros,
+  { "word": "Pasapalabra", "hints": ["Rosco", "Letras", "Tiempo"], "impostorWords": ["Saber y Ganar", "Boom", "Ahora Caigo"] }
+]
