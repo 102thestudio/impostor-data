@@ -1,0 +1,12 @@
+[
+  { "word": "Nike", "hints": ["Deporte", "Zapatillas", "Swoosh"], "impostorWords": ["Adidas", "Puma", "Reebok"] },
+  { "word": "Adidas", "hints": ["Deporte", "Tres rayas", "Zapatillas"], "impostorWords": ["Nike", "Puma", "Reebok"] },
+  { "word": "Apple", "hints": ["Tecnología", "Manzana", "iPhone"], "impostorWords": ["Samsung", "Microsoft", "Google"] },
+  { "word": "Coca-Cola", "hints": ["Bebida", "Rojo", "Refresco"], "impostorWords": ["Pepsi", "Fanta", "Sprite"] },
+  { "word": "McDonald's", "hints": ["Comida", "Hamburguesa", "M amarilla"], "impostorWords": ["Burger King", "KFC", "Wendy's"] },
+  { "word": "BMW", "hints": ["Coche", "Alemán", "Lujo"], "impostorWords": ["Mercedes", "Audi", "Ferrari"] },
+  { "word": "Zara", "hints": ["Ropa", "Inditex", "Española"], "impostorWords": ["H&M", "Mango", "Primark"] },
+  { "word": "Samsung", "hints": ["Tecnología", "Corea", "Galaxy"], "impostorWords": ["Apple", "Xiaomi", "LG"] },
+  { "word": "Ferrari", "hints": ["Coche", "Rojo", "Caballo"], "impostorWords": ["Lamborghini", "Porsche", "BMW"] },
+  { "word": "Google", "hints": ["Internet", "Buscador", "Colores"], "impostorWords": ["Apple", "Microsoft", "Amazon"] }
+]

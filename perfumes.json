@@ -1,0 +1,12 @@
+[
+  { "word": "Invictus", "hints": ["Trofeo", "Paco Rabanne", "Hombre"], "impostorWords": ["One Million", "Sauvage", "Boss"] },
+  { "word": "One Million", "hints": ["Oro", "Paco Rabanne", "Lingote"], "impostorWords": ["Invictus", "Sauvage", "Le Male"] },
+  { "word": "Sauvage", "hints": ["Dior", "Johnny Depp", "Desierto"], "impostorWords": ["Invictus", "Acqua di Gio", "Eros"] },
+  { "word": "Chanel No 5", "hints": ["Clásico", "Marilyn Monroe", "Mujer"], "impostorWords": ["Coco Mademoiselle", "J'adore", "Light Blue"] },
+  { "word": "Good Girl", "hints": ["Zapato", "Tacón", "Carolina Herrera"], "impostorWords": ["Black Opium", "Amor Amor", "La Vie Est Belle"] },
+  { "word": "La Vie Est Belle", "hints": ["Lancôme", "Julia Roberts", "Dulce"], "impostorWords": ["J'adore", "Good Girl", "Amor Amor"] },
+  { "word": "Acqua di Gio", "hints": ["Armani", "Mar", "Fresco"], "impostorWords": ["Sauvage", "Light Blue", "Eros"] },
+  { "word": "Le Male", "hints": ["Marinero", "Jean Paul Gaultier", "Cuerpo"], "impostorWords": ["Invictus", "Boss", "One Million"] },
+  { "word": "Black Opium", "hints": ["YSL", "Café", "Noche"], "impostorWords": ["Good Girl", "Amor Amor", "Alien"] },
+  { "word": "Amor Amor", "hints": ["Cacharel", "Rojo", "Rosa"], "impostorWords": ["Good Girl", "Black Opium", "Fantasy"] }
+]
