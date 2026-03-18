@@ -27,5 +27,6 @@
   { "id": "anime2", "name": "Anime" },
   { "id": "internet2", "name": "Gamers" },
   { "id": "rock2", "name": "Rock" },
+  { "id": "fallas3": "name": "Especial Fallas" },
   { "id": "underground2", "name": "Undrground" }
 ]
