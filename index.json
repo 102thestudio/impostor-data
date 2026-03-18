@@ -1,8 +1,8 @@
 {
   "notification": {
-    "mensaje": "¡Nuevos archivos clasificados disponibles! Especial Fallas activo hasta el día 20. 🧨🔥",
+    "mensaje": "¡Nueva categoría disponible! Especial Fallas activo hasta el día 20. 🧨🔥",
     "tipo": "popup",
-    "version_min": "1.0",
+    "version_min": "1.2.5",
     "expira": "2026-03-20"
   },
   "categories": [
