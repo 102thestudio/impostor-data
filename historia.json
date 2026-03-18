@@ -1,0 +1,17 @@
+[
+  { "word": "Imperio Romano", "hints": ["Europa", "Antigüedad", "Julio César"], "impostorWords": ["Grecia Antigua", "Egipto", "Bizancio"] },
+  { "word": "Pirámides", "hints": ["Egipto", "Tumbas", "Faraón"], "impostorWords": ["Esfinge", "Sarcófago", "Templo"] },
+  { "word": "Vikingos", "hints": ["Norte", "Navegantes", "Guerreros"], "impostorWords": ["Piratas", "Celtas", "Bárbaros"] },
+  { "word": "Renacimiento", "hints": ["Arte", "Europa", "Da Vinci"], "impostorWords": ["Edad Media", "Ilustración", "Barroco"] },
+  { "word": "Edad Media", "hints": ["Castillos", "Caballeros", "Cruzadas"], "impostorWords": ["Renacimiento", "Antigüedad", "Imperio Romano"] },
+  { "word": "Faraón", "hints": ["Egipto", "Rey", "Pirámides"], "impostorWords": ["Emperador", "Rey", "Sultán"] },
+  { "word": "Gladiador", "hints": ["Roma", "Coliseo", "Lucha"], "impostorWords": ["Soldado", "Samurai", "Espartano"] },
+  { "word": "Guerra Fría", "hints": ["Siglo XX", "EEUU vs URSS", "Espionaje"], "impostorWords": ["Segunda Guerra Mundial", "Guerra de Vietnam", "Guerra Civil"] },
+  { "word": "Cristóbal Colón", "hints": ["Navegante", "América", "Barcos"], "impostorWords": ["Magallanes", "Marco Polo", "Vasco da Gama"] },
+  { "word": "Revolución Industrial", "hints": ["Fábricas", "Máquinas", "Inglaterra"], "impostorWords": ["Revolución Francesa", "Renacimiento", "Edad Moderna"] },
+  { "word": "Muro de Berlín", "hints": ["Alemania", "Separación", "Guerra Fría"], "impostorWords": ["Muralla China", "Frontera", "Telón de Acero"] },
+  { "word": "Imperio Inca", "hints": ["Sudamérica", "Machu Picchu", "Andes"], "impostorWords": ["Imperio Azteca", "Mayas", "Imperio Español"] },
+  { "word": "Samurai", "hints": ["Japón", "Espada", "Honor"], "impostorWords": ["Ninja", "Caballero", "Gladiador"] },
+  { "word": "Esparta", "hints": ["Grecia", "Guerreros", "Película 300"], "impostorWords": ["Atenas", "Roma", "Troya"] },
+  { "word": "Revolución Francesa", "hints": ["Francia", "Guillotina", "Libertad"], "impostorWords": ["Revolución Rusa", "Independencia EEUU", "Revolución Industrial"] }
+]

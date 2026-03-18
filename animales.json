@@ -1,0 +1,17 @@
+[
+  { "word": "Elefante", "hints": ["Grande", "Trompa", "África"], "impostorWords": ["Rinoceronte", "Hipopótamo", "Mamut"] },
+  { "word": "Jirafa", "hints": ["Cuello", "Amarillo", "África"], "impostorWords": ["Cebra", "Avestruz", "Camello"] },
+  { "word": "Rinoceronte", "hints": ["Cuerno", "Gris", "África"], "impostorWords": ["Elefante", "Hipopótamo", "Triceratops"] },
+  { "word": "Pingüino", "hints": ["Hielo", "Ave", "Blanco y negro"], "impostorWords": ["Oso Polar", "Foca", "Pato"] },
+  { "word": "Delfín", "hints": ["Mar", "Inteligente", "Gris"], "impostorWords": ["Ballena", "Tiburón", "Orca"] },
+  { "word": "Canguro", "hints": ["Salto", "Bolsa", "Australia"], "impostorWords": ["Koala", "Rana", "Conejo"] },
+  { "word": "Oso Polar", "hints": ["Frío", "Blanco", "Hielo"], "impostorWords": ["Pingüino", "Oso Pardo", "Lobo"] },
+  { "word": "Camello", "hints": ["Desierto", "Joroba", "Arena"], "impostorWords": ["Dromedario", "Caballo", "Llama"] },
+  { "word": "Cebra", "hints": ["Rayas", "Blanco y negro", "África"], "impostorWords": ["Caballo", "Jirafa", "Tigre"] },
+  { "word": "Hipopótamo", "hints": ["Agua", "Gris", "Grande"], "impostorWords": ["Rinoceronte", "Elefante", "Cocodrilo"] },
+  { "word": "Cocodrilo", "hints": ["Reptil", "Agua", "Dientes"], "impostorWords": ["Caimán", "Serpiente", "Hipopótamo"] },
+  { "word": "Búho", "hints": ["Noche", "Ave", "Ojos grandes"], "impostorWords": ["Águila", "Murciélago", "Halcón"] },
+  { "word": "Águila", "hints": ["Volar", "Cielo", "Visión"], "impostorWords": ["Halcón", "Buitre", "Búho"] },
+  { "word": "Tortuga", "hints": ["Lento", "Caparazón", "Verde"], "impostorWords": ["Caracol", "Cocodrilo", "Serpiente"] },
+  { "word": "Serpiente", "hints": ["Arrastrarse", "Veneno", "Largo"], "impostorWords": ["Gusano", "Cocodrilo", "Lagarto"] }
+]
