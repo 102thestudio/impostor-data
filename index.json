@@ -1,6 +1,6 @@
 {
   "notification": {
-    "mensaje": "¡Categoría Fallas disponible hasta el Viernes!🧨🔥",
+    "mensaje": null,
     "tipo": "popup",
     "version_min": "1.2.5",
     "expira": "2026-03-20"
