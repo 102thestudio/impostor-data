@@ -1,9 +1,9 @@
 {
   "notification": {
-    "mensaje": "¡Prueba los Nuevos Roles: Virus y Oráculo!",
+    "mensaje": "¡Nueva Categoría Semana Santa!",
     "tipo": "popup",
     "version_min": "1.2.8",
-    "expira": "2026-03-31"
+    "expira": "2026-04-06"
   },
   "categories": [
     { "id": "basicos", "name": "Básicos" },
