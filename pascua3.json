@@ -2,7 +2,7 @@
   { "word": "Nazareno", "hints": ["Túnica", "Procesión", "Penitencia"], "impostorWords": ["Cura", "Monje", "Costalero"] },
   { "word": "Capirote", "hints": ["Gorro", "Puntiagudo", "Nazareno"], "impostorWords": ["Sombrero", "Capucha", "Casco"] },
   { "word": "Procesion", "hints": ["Marcha", "Calle", "Religión"], "impostorWords": ["Desfile", "Manifestación", "Romería"] },
-  { "word": "Paso", "hints": ["Estructura", "Imágenes", "Hombros"], "impostorWords": ["Carroza", "Altar", "Escultura"] },
+  { "word": "Pasos", "hints": ["Estructura", "Imágenes", "Hombros"], "impostorWords": ["Carroza", "Altar", "Escultura"] },
   { "word": "Costalero", "hints": ["Fuerza", "Paso", "Hombros"], "impostorWords": ["Nazareno", "Músico", "Cura"] },
   { "word": "Torrija", "hints": ["Dulce", "Pan", "Leche"], "impostorWords": ["Buñuelo", "Tostada", "Bizcocho"] },
   { "word": "Mona", "hints": ["Pascua", "Dulce", "Huevo"], "impostorWords": ["Roscón", "Panquemado", "Pastel"] },
