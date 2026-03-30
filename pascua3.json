@@ -1,9 +1,9 @@
 [
-  { "word": "Nazareno", "hints": ["Túnica", "Procesión", "Penitencia"], "impostorWords": ["Cura", "Monje", "Devoto"] },
+  { "word": "Nazareno", "hints": ["Túnica", "Procesión", "Penitencia"], "impostorWords": ["Cura", "Monje", "Costalero"] },
   { "word": "Capirote", "hints": ["Gorro", "Puntiagudo", "Nazareno"], "impostorWords": ["Sombrero", "Capucha", "Casco"] },
   { "word": "Procesión", "hints": ["Marcha", "Calle", "Religión"], "impostorWords": ["Desfile", "Manifestación", "Romería"] },
-  { "word": "Pasos", "hints": ["Estructura", "Imágenes", "Hombros"], "impostorWords": ["Carroza", "Altar", "Escultura"] },
-  { "word": "Costalero", "hints": ["Fuerza", "Paso", "Hombros"], "impostorWords": ["Portador", "Músico", "Cura"] },
+  { "word": "Paso", "hints": ["Estructura", "Imágenes", "Hombros"], "impostorWords": ["Carroza", "Altar", "Escultura"] },
+  { "word": "Costalero", "hints": ["Fuerza", "Paso", "Hombros"], "impostorWords": ["Nazareno", "Músico", "Cura"] },
   { "word": "Torrija", "hints": ["Dulce", "Pan", "Leche"], "impostorWords": ["Buñuelo", "Tostada", "Bizcocho"] },
   { "word": "Mona", "hints": ["Pascua", "Dulce", "Huevo"], "impostorWords": ["Roscón", "Panquemado", "Pastel"] },
   { "word": "Cirio", "hints": ["Vela", "Cera", "Luz"], "impostorWords": ["Antorcha", "Farol", "Lámpara"] },
@@ -11,7 +11,12 @@
   { "word": "Mantilla", "hints": ["Encaje", "Negro", "Cabeza"], "impostorWords": ["Velo", "Chal", "Pañuelo"] },
   { "word": "Palma", "hints": ["Domingo", "Ramos", "Hojas"], "impostorWords": ["Olivo", "Rama", "Helecho"] },
   { "word": "Incienso", "hints": ["Olor", "Humo", "Iglesia"], "impostorWords": ["Perfume", "Mirra", "Ceniza"] },
+  { "word": "Cofradía", "hints": ["Hermandad", "Medalla", "Grupo"], "impostorWords": ["Asociación", "Club", "Peña"] },
   { "word": "Tamborada", "hints": ["Ruido", "Percusión", "Palillos"], "impostorWords": ["Banda", "Concierto", "Mascletà"] },
   { "word": "Cruz", "hints": ["Madera", "Símbolo", "Pasión"], "impostorWords": ["Espada", "Poste", "Estatua"] },
-  { "word": "Cuaresma", "hints": ["Cuarenta", "Días", "Preparación"], "impostorWords": ["Adviento", "Semana", "Ayuno"] }
+  { "word": "Huevos", "hints": ["Chocolate", "Pintados", "Esconder"], "impostorWords": ["Pelotas", "Dulces", "Caramelos"] },
+  { "word": "Conejo", "hints": ["Animal", "Pascua", "Orejas"], "impostorWords": ["Liebre", "Ratón", "Perro"] },
+  { "word": "Vigilia", "hints": ["Noche", "Espera", "Oración"], "impostorWords": ["Madrugada", "Insomnio", "Fiesta"] },
+  { "word": "Cuaresma", "hints": ["Cuarenta", "Días", "Preparación"], "impostorWords": ["Adviento", "Semana", "Ayuno"] },
+  { "word": "Campanario", "hints": ["Torre", "Iglesia", "Sonido"], "impostorWords": ["Castillo", "Mirador", "Reloj"] }
 ]
