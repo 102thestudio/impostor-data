@@ -1,6 +1,6 @@
 {
   "notification": {
-    "mensaje": "¡Nueva Categoría Semana Santa!",
+    "mensaje": null,
     "tipo": "popup",
     "version_min": "1.2.8",
     "expira": "2026-04-06"
@@ -34,7 +34,6 @@
     { "id": "anime2", "name": "Anime" },
     { "id": "internet2", "name": "Gamers" },
     { "id": "rock2", "name": "Rock" },
-    { "id": "pascua3", "name": "Semana Santa" },
     { "id": "underground2", "name": "Undrground" }
   ]
 }
